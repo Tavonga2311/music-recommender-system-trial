@@ -1,0 +1,416 @@
+genre,artist_name,track_name,track_id,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+Movie,Henri Salvador,C'est beau de faire un Show,0BRjO6ga9RKCKjfDqeFgWV,0,0.611,0.389,99373,0.91,0,C#,0.346,-1.828,Major,0.0525,166.969,4-Apr,0.814
+Movie,Martin & les fées,Perdu d'avance (par Gad Elmaleh),0BjC1NfoEOOusryehmNudP,1,0.246,0.59,137373,0.737,0,F#,0.151,-5.559,Minor,0.0868,174.003,4-Apr,0.816
+Movie,Joseph Williams,Don't Let Me Be Lonely Tonight,0CoSDzoNIKCRs124s9uTVy,3,0.952,0.663,170267,0.131,0,C,0.103,-13.879,Minor,0.0362,99.488,5-Apr,0.368
+Movie,Henri Salvador,Dis-moi Monsieur Gordon Cooper,0Gc6TVm52BwZD07Ki6tIvf,0,0.703,0.24,152427,0.326,0,C#,0.0985,-12.178,Major,0.0395,171.758,4-Apr,0.227
+Movie,Fabien Nataf,Ouverture,0IuslXpMROHdEPvSl1fTQK,4,0.95,0.331,82625,0.225,0.123,F,0.202,-21.15,Major,0.0456,140.576,4-Apr,0.39
+Movie,Henri Salvador,Le petit souper aux chandelles,0Mf1jKa8eNAf1a4PwTbizj,0,0.749,0.578,160627,0.0948,0,C#,0.107,-14.97,Major,0.143,87.479,4-Apr,0.358
+Movie,Martin & les fées,"Premières recherches (par Paul Ventimila, Lorie Pester, Véronique Jannot, Michèle Laroque & Gérard Lenorman)",0NUiKYRd6jt1LKMYGkUdnZ,2,0.344,0.703,212293,0.27,0,C#,0.105,-12.675,Major,0.953,82.873,4-Apr,0.533
+Movie,Laura Mayne,Let Me Let Go,0PbIF9YVD505GutwotpB5C,15,0.939,0.416,240067,0.269,0,F#,0.113,-8.949,Major,0.0286,96.827,4-Apr,0.274
+Movie,Chorus,Helka,0ST6uPfvaPpJLtQwhE6KfC,0,0.00104,0.734,226200,0.481,0.00086,C,0.0765,-7.725,Major,0.046,125.08,4-Apr,0.765
+Movie,Le Club des Juniors,Les bisous des bisounours,0VSqZ3KStsjcfERGdcWpFO,10,0.319,0.598,152694,0.705,0.00125,G,0.349,-7.79,Major,0.0281,137.496,4-Apr,0.718
+Movie,Leopold Stokowski,Symphony No.4 In E Minor Op.98 : IV. Allegro Energico E Passionato,0XKgegoxLcIihK3Klpfo3N,0,0.921,0.191,566960,0.145,0.529,E,0.141,-17.239,Minor,0.0393,85.225,4-Apr,0.0849
+Movie,Randy Newman,The Hanging (Maverick - Original Motion Picture Score) - Remastered,0hprxsuRM5vVCOfaM7l3gQ,2,0.0383,0.23,121333,0.133,0.887,C,0.0872,-19.051,Major,0.0302,91.739,4-Apr,0.118
+Movie,Idoles De La Musique,J'ai demandé à la lune,0jF6HUm18fg6QQCLHhfhC0,4,0.215,0.68,213589,0.6,0.0729,F#,0.111,-7.702,Minor,0.0258,110.026,4-Apr,0.433
+Movie,Chorus,Mangala Aarti,0jIY0oRAp1T4mezDyEhOad,3,0.958,0.758,308627,0.264,0,D#,0.0543,-11.966,Major,0.0496,110.068,3-Apr,0.742
+Movie,Richard M. Sherman,Keys of Love,0pXwl2CRP5awxHsF9eET3L,0,0.97,0.4,159253,0.174,0.933,G,0.13,-13.869,Major,0.0458,115.022,4-Apr,0.27
+Movie,Michel Roux,Les aventures d'Arsène Lupin: 813 - Partie 6,0uWUjxM7oDPKpb3T2y3oZm,0,0.548,0.588,2447870,0.405,0,G#,0.754,-15.55,Major,0.938,83.56,3-Apr,0.48
+Movie,Jean Claude Corbel,Diane,0vS7Zid3q0dMyX8uMnlQ8s,0,0.7,0.625,523424,0.237,0,D,0.319,-16.655,Major,0.561,108.508,3-Apr,0.298
+Movie,Bernard Minet,Ultra Man 80,0x8xSaoSfQkOYUnG1nbga0,3,0.488,0.744,178107,0.953,0,E,0.453,-4.986,Major,0.037,129.959,4-Apr,0.926
+Movie,Henri Salvador,Veunise,113pHPsGwyeklEjLhnB3ZT,1,0.381,0.451,194360,0.491,0,D,0.152,-8.73,Major,0.0548,71.633,3-Apr,0.516
+Anime,Kenshi Yonezu,Peace Sign,5aHfGUxRec6c41luxkDqhX,64,0.00221,0.594,238533,0.935,0,A#,0.315,-3.853,Minor,0.0684,100.003,4-Apr,0.618
+Anime,Hikaru Utada,Face My Fears - English Version,0CALOqrkXAE7WB2nyIATLk,63,0.0105,0.628,222013,0.751,0,C#,0.119,-7.041,Minor,0.0991,159.965,3-Apr,0.44
+Anime,TK from Ling tosite sigure,Unravel,0GLyqTysS0DFoeKjURtB8s,65,0.0495,0.507,238360,0.889,0,G,0.0983,-2.755,Minor,0.086,135.021,4-Apr,0.333
+Anime,LiSA,Crossing Field,3mScGCzxiXA9OaHdBeuk7O,58,0.0157,0.447,248947,0.983,0,F,0.276,-2.281,Major,0.268,179.072,4-Apr,0.317
+Anime,KANA-BOON,Silhouette,21z1GxeHjfD3qkaF5CgCTO,65,1.05E-05,0.436,240133,0.934,0.136,D,0.321,-2.685,Major,0.0507,91.488,4-Apr,0.383
+Anime,UVERworld,Odd Future,0yy8QwH9OOgeF3CBeUDguR,60,0.015,0.694,225907,0.795,0,C,0.114,-4.649,Minor,0.0924,128.036,4-Apr,0.556
+Anime,amazarashi,Sora Ni Utaeba,6wZcefZGc6vrd3zLCQoOYe,60,0.0142,0.594,217627,0.951,1.18E-06,F#,0.0965,-1.339,Minor,0.0696,102.04,4-Apr,0.641
+Anime,THE ORAL CIGARETTES,Kyouran Hey Kids!!,38kcwx5znepLWCIBID0Bwm,62,0.00318,0.526,250973,0.981,0.00161,G#,0.187,-1.82,Major,0.111,142.016,4-Apr,0.781
+Anime,Cö Shu Nie,Asphyxia,49u6NxoLP5S6kfTYLmUfkQ,59,0.0348,0.253,174780,0.932,0,F,0.319,-3.346,Major,0.201,112.409,4-Apr,0.334
+Anime,Linked Horizon,Guren no Yumiya,70p3HYq9iHZisJqpDmWd1U,60,0.0232,0.455,310680,0.952,5.65E-05,C#,0.0662,-6.382,Minor,0.0787,90.365,4-Apr,0.332
+Anime,Porno Graffitti,The Day,1tjOClAkdMxDfYPO0xvGbG,59,0.000761,0.512,241627,0.933,0,C#,0.342,-4.759,Minor,0.0738,92.998,4-Apr,0.465
+Anime,ASIAN KUNG-FU GENERATION,Haruka Kanata,052C0m9kD30nZqcPWPPRqm,59,2.46E-05,0.316,243347,0.951,0.189,C#,0.17,-3.757,Minor,0.112,174.895,4-Apr,0.255
+R&B,Mary J. Blige,Be Without You - Kendu Mix,2YegxR5As7BeQuVp2U6pek,65,0.083,0.724,246333,0.689,0,D,0.304,-5.922,Minor,0.135,146.496,4-Apr,0.693
+R&B,Rihanna,Desperado,6KFaHC9G178beAp7P0Vi5S,63,0.323,0.685,186467,0.61,0,C,0.102,-5.221,Minor,0.0439,94.384,3-Apr,0.323
+R&B,Yung Bleu,Ice On My Baby (feat. Kevin Gates) - Remix,6muW8cSjJ3rusKJ0vH5olw,62,0.0675,0.762,199520,0.52,3.95E-06,F,0.114,-5.237,Minor,0.0959,75.047,4-Apr,0.0862
+R&B,Surfaces,Heaven Falls / Fall on Me,7yHqOZfsXYlicyoMt62yC6,61,0.36,0.563,240597,0.366,0.00243,B,0.0955,-6.896,Minor,0.121,85.352,4-Apr,0.768
+R&B,Olivia O'Brien,Love Myself,4XzgjxGKqULifVf7mnDIQK,68,0.596,0.653,213947,0.621,0,B,0.0811,-5.721,Minor,0.0409,100.006,4-Apr,0.466
+R&B,ELHAE,Needs,7KdRu0h7PQ0Ecfa37rUBzW,61,0.661,0.51,205640,0.331,0,B,0.123,-13.073,Minor,0.0895,124.657,4-Apr,0.225
+R&B,Nao,Make It Out Alive (feat. SiR),21Ft8ME799DMZjxNwmui6Z,64,0.667,0.67,239147,0.649,0.00013,C,0.109,-7.426,Minor,0.0875,147.935,4-Apr,0.618
+R&B,Frank Ocean,Seigfried,1BViPjTT585XAhkUUrkts0,66,0.975,0.377,334570,0.255,0.000208,E,0.102,-11.165,Minor,0.0387,125.004,5-Apr,0.37
+R&B,Layton Greene,Roll In Peace,33YFwLJbAdgePluIuEVa9p,60,0.72,0.523,170343,0.507,0,G,0.0774,-6.448,Minor,0.225,140.368,4-Apr,0.7
+R&B,Usher,You Make Me Wanna...,47TqCCnEliDp8NRDyIQoQq,69,0.0359,0.761,219120,0.639,0,F,0.0945,-7.577,Minor,0.0539,164.088,4-Apr,0.922
+R&B,Mariah Carey,Hero,4FCb4CUbFCMNRkI6lYc1zI,71,0.735,0.501,257733,0.378,0,E,0.119,-9.37,Major,0.029,119.987,4-Apr,0.178
+R&B,Beyoncé,Flawless Remix,0zVMzJ37VQNFUNvdxxat2E,69,0.241,0.639,234413,0.659,8.33E-06,G#,0.484,-7.273,Major,0.215,136.801,4-Apr,0.457
+R&B,Jason Derulo,Tip Toe (feat. French Montana),2z4pcBLQXF2BXKFvd0BuB6,76,0.0233,0.845,187521,0.709,0,A#,0.094,-4.547,Minor,0.0714,98.062,4-Apr,0.62
+R&B,TWENTY88,On The Way,2TAf6ITyhwc9Z3MYb4tSYl,61,0.0808,0.584,203227,0.687,0,C#,0.2,-7.176,Minor,0.321,129.902,4-Apr,0.324
+R&B,Big Sean,I Know,6rje9f1wRFJDO2iTORw0lH,66,0.288,0.741,319973,0.345,0,C#,0.117,-11.31,Major,0.0754,120.015,4-Apr,0.277
+Country,Cam,My Mistake,5ICoYTFfmUKguBHpINKkGL,45,0.00821,0.551,200013,0.704,2.25E-06,G#,0.245,-5.426,Major,0.0444,97.075,4-Apr,0.541
+Country,Kevin Fowler,That Girl,0rk6JE7ODyGWWquK4y7t1u,42,0.0272,0.375,208187,0.859,0,G,0.267,-3.243,Major,0.0569,74.059,4-Apr,0.597
+Country,Roger Miller,Chug-A-Lug,3vMwtAfDNM8dDBWMvS78pn,46,0.69,0.699,123360,0.408,0.000219,B,0.145,-11.46,Major,0.096,171.922,4-Apr,0.842
+Country,M. Ward,Chinese Translation,7IJlk42gDKt5dfSSLwtEsp,54,0.152,0.555,238600,0.726,0.000178,D,0.148,-8.939,Major,0.0368,107.719,4-Apr,0.505
+Country,Chris Cagle,Anywhere But Here,2JxSaSRavL82FCTCPzVmEf,42,0.571,0.64,243000,0.478,0,B,0.0902,-6.96,Major,0.033,136.717,4-Apr,0.315
+Country,Cassadee Pope,I Wish I Could Break Your Heart,4wrjIq1lskP8tZuQBEdcux,44,0.13,0.435,220413,0.846,0,G#,0.092,-4.169,Major,0.0496,199.895,4-Apr,0.631
+Country,Mark Chesnutt,Too Cold At Home,5oqxLuRvQFjV4k0orrXs5d,41,0.199,0.638,219573,0.412,9.27E-06,D,0.319,-12.901,Major,0.0242,92.832,4-Apr,0.509
+Country,Gary Allan,Get Off On The Pain,0DJev1kGOCzaY8Ae3oQwH0,42,0.0293,0.387,234307,0.874,1.72E-05,C,0.171,-4.528,Major,0.053,168.105,4-Apr,0.674
+Country,"Hank Williams, Jr.",Old Habits,17zj9e1nYLJaKjqKuwWCht,42,0.173,0.633,183600,0.444,3.33E-06,D,0.0821,-14.09,Major,0.0264,106.111,3-Apr,0.45
+Country,Ryan Adams,When The Stars Go Blue,04rMpRstoJt3uvqyNGKczX,52,0.469,0.587,211667,0.201,2.58E-05,A#,0.119,-13.299,Major,0.0301,90.018,4-Apr,0.3
+Country,Jason Aldean,Fast,0B5U0yusM7L7pyJO6wJqTb,41,0.291,0.538,254040,0.665,7.16E-06,F#,0.0809,-5.189,Major,0.0327,132.085,4-Apr,0.34
+Country,Adam Sanders,Sippin' on the Good Times,7n82MsJYnUxW67iFAtZdkW,42,0.0566,0.505,188018,0.756,0,E,0.198,-7.972,Major,0.0447,156.088,4-Apr,0.898
+Country,Linda Ronstadt,Don't Know Much (with Aaron Neville),4x9y3JSvsjBTbm4uEnBrdT,58,0.657,0.401,211973,0.285,1.13E-05,B,0.158,-11.005,Major,0.0327,130.465,4-Apr,0.267
+Country,Tommy Chayne,King of the Pines (feat. Upchurch),0tCWyBFWM4M5qhaSeyuAGo,44,0.0181,0.734,197176,0.808,0,B,0.323,-5.375,Minor,0.232,149.995,4-Apr,0.433
+Country,The Reklaws,Long Live The Night,0tCsWWCdQFpDmCsTrnZO69,51,0.00537,0.547,206013,0.779,0,G,0.14,-5.563,Major,0.0358,126.97,4-Apr,0.361
+Country,Pistol Annies,Sugar Daddy,0onvnJVl8K9ldJvufVgwSR,43,0.00761,0.647,218147,0.87,2.15E-05,C,0.23,-6.032,Minor,0.035,129.26,4-Apr,0.912
+Country,Carrie Underwood,Chaser,76vVrWGgSYz7r0rYEwU807,45,0.06,0.493,262720,0.78,0.000248,C,0.192,-4.127,Major,0.0485,119.996,4-Apr,0.19
+Country,Colter Wall,Thinkin' on a Woman,2ZjaJHlOoxFPo1X2a96Lp3,47,0.476,0.417,200055,0.322,3.19E-06,D,0.16,-10.992,Major,0.0538,203.84,4-Apr,0.395
+Country,Bobby Bare,The Winner,1gTCzUascRfdigO7PgpT6k,43,0.773,0.687,320040,0.543,2.19E-06,G,0.705,-10.151,Major,0.0521,129.296,5-Apr,0.807
+Country,Chris Lane,Laps Around The Sun,6JlQE8m1L6Ys4Q8F8m3CHN,42,0.197,0.577,212707,0.784,0,F#,0.0963,-4.396,Major,0.0493,158.085,4-Apr,0.757
+Country,Holly Dunn,Daddy's Hands,2VPnnOGXmejtKqxGY4jg66,45,0.54,0.551,209467,0.269,0,D,0.103,-9.782,Major,0.028,76.511,4-Apr,0.476
+Country,Brooks & Dunn,Proud of the House We Built,7dP5CWoAZlHVBzNAsSxYP1,43,0.0655,0.618,226187,0.79,0.00641,F#,0.11,-4.973,Major,0.0445,119.987,4-Apr,0.545
+Country,Blake Shelton,100 Miles,6OEQZye4EZqfml03j52y2S,42,0.096,0.589,209440,0.614,0.00155,E,0.116,-5.108,Major,0.027,106.104,4-Apr,0.111
+Country,Miranda Lambert,Things That Break,4KjtS8Uru8s22V1U8N1cJW,42,0.241,0.511,227667,0.563,9.71E-05,G#,0.188,-8.881,Minor,0.0267,135.336,4-Apr,0.459
+Country,Blake Shelton,Never Lovin' You,7nDprUpn7mhXfzzpv2kRZW,42,0.0173,0.593,278600,0.713,0.0647,A,0.128,-6.227,Major,0.0247,78.998,4-Apr,0.522
+Country,Sonny Bama,Lady Karma,68R5ta83kcPebZs9Ru5L6Z,44,0.0925,0.608,291467,0.649,8.49E-05,F#,0.553,-7.876,Minor,0.19,167.936,4-Apr,0.505
+Country,America,I Need You,4Anh5Ti55P6SXG3H94QLqV,58,0.583,0.528,183187,0.472,0,G,0.129,-10.428,Major,0.0267,134.099,3-Apr,0.251
+Country,Gone West,Confetti,0ZoBxuXDe0JJ77TBfJ4iOX,44,0.0167,0.61,192585,0.844,1.21E-06,C,0.0703,-5.592,Major,0.0664,183.989,4-Apr,0.852
+Country,Morgan Wallen,Yin Yang Girl,1jYHeWuwdAcaI7D97GTxF2,43,0.0912,0.528,207827,0.904,0,C,0.0424,-4.939,Major,0.0387,170.048,4-Apr,0.757
+Country,Jamey Johnson,Playing The Part,0beXxmynGqSiUP87RZsJS7,42,0.288,0.592,269200,0.633,0.0104,D,0.638,-9.621,Major,0.0456,120.32,4-Apr,0.57
+Country,Adam Sanders,About To,2IoqZQoxTTeJYbBDFtwRBc,42,0.0271,0.635,180547,0.668,0,G,0.107,-6.241,Major,0.0428,88.017,4-Apr,0.252
+Country,Morgan Wallen,Man of the South,2S1YzIHFyLxLop7XCdYrTp,43,0.0047,0.413,213348,0.889,0,D,0.348,-3.924,Major,0.0503,177.973,4-Apr,0.602
+Country,Dolly Parton,Push and Pull - from the Dumplin' Original Motion Picture Soundtrack,29h1lB9PTcekp5oUvCt2Za,46,0.277,0.683,213653,0.456,1.66E-05,C,0.142,-6.588,Major,0.0277,127.954,4-Apr,0.0987
+Country,Anne Murray,Could I Have This Dance,7BCgPuJDZgPwOv1E4p6Cvq,55,0.78,0.483,196467,0.341,0.00157,A,0.188,-9.833,Major,0.0261,87.31,3-Apr,0.618
+Country,Conway Twitty,It's Only Make Believe,4qyV2fTVF9mCzgrekHny1v,42,0.879,0.462,132200,0.392,0.00157,B,0.122,-11.522,Major,0.0393,83.267,4-Apr,0.383
+Country,Merle Haggard,"Twinkle, Twinkle Lucky Star",5lxDdFXillBqYvKe9gsYT1,44,0.841,0.659,203600,0.34,0.000598,E,0.222,-14.976,Major,0.035,81.64,4-Apr,0.694
+Country,Gillian Welch,Everything Is Free,0H8ukN2MIW2iNvqJP1kb4O,48,0.94,0.686,288000,0.143,7.65E-05,C,0.0792,-14.701,Major,0.042,101.651,4-Apr,0.351
+Country,Cal Smith,Country Bumpkin,5TQ1qGqblpxBL0dVhLda2y,44,0.702,0.581,221333,0.326,0,G,0.141,-14.924,Major,0.0323,94.76,4-Apr,0.611
+Country,Blake Shelton,The Baby,5sZ3xD192Bksbg6uBvd8Ig,42,0.312,0.344,235187,0.532,0,E,0.262,-6.907,Major,0.0298,172.606,4-Apr,0.286
+Country,Brad Paisley,You'll Never Leave Harlan Alive,1jXwAcva0xhC09Vc1hf4pF,44,0.468,0.544,304400,0.301,0,D,0.127,-11.091,Minor,0.0352,73.322,4-Apr,0.226
+Country,Ryan Bingham,Pontiac,5w3vDeOzEsdKfFUWho5kCy,44,0.0872,0.55,202647,0.859,3.48E-05,E,0.37,-3.306,Major,0.0565,148.108,4-Apr,0.803
+Country,Cash Campbell,Don't Wanna Think About It - Acoustic,5r4SJLzxElSe1BZiaelC1g,47,0.858,0.634,257054,0.287,0,A,0.1,-10.631,Major,0.0366,114.8,4-Apr,0.471
+Country,Casey Donahew,Feels This Right,6i7dw0Z5BDEnwVYk84bQmf,43,0.00994,0.51,198253,0.961,0,A,0.023,-2.57,Major,0.0461,180.08,4-Apr,0.823
+Country,Sam Hunt,Vacation - Acoustic Mixtape,74LxUpIQeJLjKWcN4iqwJY,43,0.426,0.77,163760,0.548,0,C,0.105,-6.411,Major,0.0335,86.004,4-Apr,0.402
+Country,Mitchell Tenpenny,If the Boot Fits - Acoustic,3um96T4dbTzlXhNSYBD5BB,43,0.446,0.415,173199,0.418,0,D#,0.343,-10.494,Major,0.0377,161.758,3-Apr,0.662
+Country,Chris Lane,One Girl,7Izj2m8jZrREM2Cm8yxaZS,42,0.3,0.701,167760,0.743,1.30E-05,B,0.2,-4.328,Major,0.0319,134.939,4-Apr,0.948
+Country,Andrew Hyatt,My Kind Of Crazy,2K1bCFWijqtbXQfjX8IKzX,53,0.641,0.522,184208,0.55,0,G,0.328,-7.98,Major,0.0313,79.995,4-Apr,0.676
+Country,Sturgill Simpson,It Ain't All Flowers,69Rgsy7NjASkqeJUwEGsv6,46,0.0442,0.359,403760,0.612,0.000716,E,0.124,-9.412,Major,0.0815,152.841,4-Apr,0.437
+Country,Travis Tritt,Can I Trust You With My Heart - 2006 Remastered Version,5AYEOk0KJcpnZrEQCAocD3,42,0.419,0.493,213293,0.479,8.76E-05,D,0.152,-7.483,Major,0.0286,141.584,4-Apr,0.39
+Country,Josh Ward,Between An Old Memory & Me,7udbmm9C73JczVA53CAPC2,42,0.0408,0.485,241257,0.592,9.99E-05,G#,0.0991,-7.011,Major,0.0272,75.027,4-Apr,0.193
+Country,Luke Bryan,Like We Ain't Ever,3AF6fQUuWNKTk4nM87aHrW,43,0.00376,0.601,198573,0.894,3.09E-06,D,0.0813,-4.066,Major,0.041,107.984,4-Apr,0.587
+Country,"Crosby, Stills & Nash",Love the One You're With,6kXGGyEPSRS1g9Ltm70jo9,56,0.0675,0.609,184653,0.489,0,C,0.101,-12.9,Major,0.0383,97.163,4-Apr,0.132
+Country,Keith Urban,Boy Gets A Truck,5K5OS3f4aBjwpbnfQ9ww1r,44,0.00667,0.648,209080,0.693,0.000232,C#,0.0663,-7.071,Major,0.0332,117.035,4-Apr,0.268
+Country,Dr. Hook,Cover of the Rolling Stone,3JYjHeKY0OSnkQGJGvw7P8,54,0.357,0.648,172093,0.472,0,A,0.313,-13.103,Major,0.102,142.184,4-Apr,0.907
+Country,Tim McGraw,My Old Friend,2AbgjLSmW8l5XaaR4nQE3w,42,0.212,0.463,217067,0.819,0.000268,E,0.0599,-7.662,Major,0.0357,183.998,4-Apr,0.591
+Country,Luke Bryan,My Ol' Bronco,0vgFidbP4f2H5ktxmOuV1B,43,0.0298,0.414,193507,0.897,0,E,0.151,-4.279,Major,0.0796,164.038,4-Apr,0.798
+Country,The Lacs,Make Things Right,6Xx4z4WnSkPOnuBEv6XVbu,43,0.278,0.679,228533,0.591,0,C,0.136,-6.795,Minor,0.0777,80.999,4-Apr,0.444
+Country,Chase Rice,U Turn,07tWbNwnQzC4iDG5BmH0UB,42,0.000464,0.591,210016,0.851,0,F,0.0851,-4.385,Major,0.0494,144.049,4-Apr,0.914
+Country,Eli Young Band,Small Town Kid,2A6NzgRiZiqTFj1gVVrlis,41,0.0336,0.652,223773,0.574,0,G,0.166,-6.15,Major,0.0276,83.054,4-Apr,0.503
+Country,Kip Moore,Drive Me Crazy,6Dl6DO6suOgn7sJjR8G8S1,43,0.00658,0.617,244560,0.769,0,A#,0.118,-4.076,Major,0.0291,113.913,4-Apr,0.515
+Country,Lee Brice,You Can't Help Who You Love,5knp3g3RflHT8ArnuknsmU,43,0.295,0.575,160240,0.616,0,A#,0.118,-7.627,Major,0.0957,128.126,4-Apr,0.335
+Country,Alabama,Feels So Right,692sNw4pzbVzTtsvUGbiD1,42,0.56,0.536,217293,0.316,7.09E-05,A#,0.0705,-14.995,Major,0.0238,90.498,4-Apr,0.358
+Country,Jelly Roll,Killin' Me,5A9VzqsC7DdNevB7EHnVA6,44,0.162,0.614,236931,0.673,4.09E-06,E,0.194,-5.883,Minor,0.0302,130.08,4-Apr,0.254
+Country,Justin Moore,Back That Thing Up,6eLVgH7wafOJeHPzrzigrO,41,0.0474,0.679,155627,0.896,3.26E-06,C#,0.104,-4.312,Major,0.0445,108.032,4-Apr,0.764
+Country,Jake Owen,Keepin' It Country,4u5D3bBhlIVvnrSdNqKyER,43,0.00251,0.432,199653,0.926,0,C#,0.442,-3.269,Minor,0.0367,170.996,4-Apr,0.692
+Country,Little Big Town,Beat Up Bible,5R7TAOPx2H0ImjCkdb4PXR,43,0.726,0.484,215240,0.434,0,C#,0.0941,-6.931,Major,0.0357,130.121,4-Apr,0.26
+Country,Tyler Farr,Suffer in Peace,6qkmoZlH8lYsVvcUhIOFiy,43,0.0446,0.481,240507,0.509,0.00024,C#,0.105,-5.581,Major,0.0254,135.842,4-Apr,0.215
+Country,Bachman-Turner Overdrive,Let It Ride,5Gt2lQfYlwEKlBLkK9jr5k,52,0.157,0.632,263133,0.781,0.00601,F#,0.251,-11.4,Minor,0.0391,104.797,4-Apr,0.843
+Country,Dead Man Winter,Destroyer,1R4hG0ZP1PBrP14eeOhdB5,51,0.00549,0.511,184868,0.813,0.00207,C,0.0969,-6.78,Major,0.0357,121.801,4-Apr,0.826
+Country,Bo Phillips,Peace on Earth,4vP2D3dWBJsuufu7i1OSgy,43,0.138,0.558,222827,0.499,8.33E-06,G,0.0488,-6.898,Major,0.0262,155.951,4-Apr,0.67
+Country,Chris Janson,Redneck Life,7airkEETmcJexnUXg8BrTD,43,0.00112,0.507,166000,0.961,4.65E-06,A,0.226,-4.391,Major,0.0934,170.029,4-Apr,0.514
+Country,Jim James,Here In Spirit,5GE8FTL15kS123apRK7vD4,53,0.00625,0.528,256413,0.556,0.0429,B,0.336,-5.945,Minor,0.0396,80.038,3-Apr,0.512
+Country,Stephanie Quayle,If I Was a Cowboy,3Ys7dWbSN5UXzhl9d24VL6,44,0.439,0.671,181353,0.609,0,F,0.142,-4.854,Major,0.0338,99.996,4-Apr,0.57
+Country,Kip Moore,Reckless (Still Growin' Up),03XCbxTcOKkjVZJE6Q4bN1,43,0.0578,0.613,276747,0.766,0.000244,F#,0.155,-5.925,Major,0.0389,157.916,4-Apr,0.807
+Country,Trace Adkins,Jesus and Jones,3wQjHSfCaPyPatvz9sn4w4,43,0.0328,0.499,224467,0.839,3.46E-06,C#,0.0378,-5.281,Major,0.0549,138.087,4-Apr,0.592
+Country,Vern Gosdin,Set 'Em Up Joe,3NK1S43wIXbYhWHCjQOrnM,40,0.418,0.853,145200,0.401,0.000269,D,0.222,-12.526,Major,0.0325,120.049,4-Apr,0.663
+Country,Kelsea Ballerini,Machine Heart,19WNVv6GaJMI19Qka6RfEJ,47,0.165,0.614,189107,0.625,0,A,0.11,-5.814,Major,0.0341,115.003,4-Apr,0.278
+Country,LeAnn Rimes,One Way Ticket (Because I Can),0meAc2H0tC5tOTd6MDe0cI,44,0.0291,0.696,223973,0.778,1.77E-06,C#,0.13,-7.28,Major,0.0286,119.93,4-Apr,0.746
+Country,Montgomery Gentry,Where I Come From (Remix) [feat. Colt Ford & The Lacs],2zHJJWW1meLvMfv5qQLB9j,42,0.0389,0.756,201763,0.75,0,C#,0.0298,-5.619,Major,0.0519,104.987,4-Apr,0.695
+Country,Josh Abbott Band,Kinda Missing You,6XJzVwnwrTAjT1KKjktto5,43,0.00134,0.522,217906,0.877,1.31E-05,D,0.358,-4.401,Major,0.0288,96.543,4-Apr,0.782
+Country,Demun Jones,World Went to Waste,3OdLbGJW9AO86SgkTWTgi3,43,0.354,0.802,247093,0.64,0,C,0.113,-6.168,Minor,0.0886,105,4-Apr,0.403
+Country,Fred Eaglesmith,Trucker Speed,4ew7DSQBzRemqkCoZ4NHTJ,43,0.91,0.752,311373,0.11,9.98E-05,G,0.0963,-13.8,Major,0.0506,130.216,4-Apr,0.306
+Country,Dwight Yoakam,"Guitars, Cadillacs - Remastered",5F8BJJ9YUm8aulJcxFdVcN,44,0.344,0.556,184240,0.911,0.101,A,0.171,-3.822,Major,0.0707,172.324,3-Apr,0.901
+Country,Alabama,40 Hour Week (For A Livin'),4OpB5ExXiVjj1f3gMfTw4u,43,0.123,0.578,201027,0.44,0,E,0.145,-14.644,Major,0.111,85.213,4-Apr,0.439
+Country,Tyler Farr,"Chicks, Trucks, and Beer - feat. Colt Ford",6UP1XUjfh31BTPeSBh7C0l,43,0.0125,0.637,215880,0.915,0,G,0.0477,-5.508,Major,0.0494,109.018,4-Apr,0.718
+Country,Darius Rucker,Twenty Something,4qZYuEa6nDveq3X0hBqcu8,43,0.405,0.404,190640,0.616,0,C,0.368,-6.457,Major,0.0308,84.767,4-Apr,0.343
+Country,Zac Brown Band,The Wind - Greatest Hits Version,6vZ7leJdb4Gm9aWcjMNqnM,44,0.205,0.691,176840,0.948,0,F#,0.303,-4.114,Major,0.0539,136.075,4-Apr,0.874
+Country,Tanya Tucker,Love Me Like You Used To,6R0J27NoJN6ljro9L3Bmx7,43,0.732,0.552,226867,0.226,0,A#,0.0864,-13.853,Major,0.0284,89.186,4-Apr,0.486
+Country,Kristian Bush,Trailer Hitch,02H8JYd2hItFqfppgu5efp,43,0.252,0.718,170918,0.86,0,F,0.0703,-4.162,Major,0.0409,93.022,4-Apr,0.883
+Country,Aaron Lewis,Stuck In These Shoes,518FVojPSjolezdZOnrgEO,43,0.103,0.615,224333,0.405,0,F#,0.103,-6.885,Major,0.0242,112,3-Apr,0.207
+Country,Turnpike Troubadours,The Winding Stair Mountain Blues,3bdHG1YWgZ6bjMbM373vyu,43,0.0127,0.416,207040,0.917,0.000352,E,0.173,-5.302,Minor,0.0765,123.951,4-Apr,0.719
+Country,Sunny Sweeney,From A Table Away,6WTJj7qXOh0XonzXAHUqGG,42,0.0393,0.547,215333,0.805,1.75E-05,G#,0.332,-4.34,Major,0.0293,110.027,4-Apr,0.557
+Country,George Jones,Golden Ring,5HywRUoXNfWpiR1dAwoZip,45,0.53,0.533,182467,0.52,0,B,0.173,-12.32,Major,0.0472,83.194,4-Apr,0.652
+Country,King Calaway,Rivers,4VjYCU2dAUNtCDyjDz87F6,42,0.00618,0.59,177707,0.645,0,D,0.0585,-6.337,Major,0.027,105.952,4-Apr,0.463
+Anime,Kenshi Yonezu,Peace Sign,5aHfGUxRec6c41luxkDqhX,64,0.00221,0.594,238533,0.935,0,A#,0.315,-3.853,Minor,0.0684,100.003,4-Apr,0.618
+Anime,Hikaru Utada,Face My Fears - English Version,0CALOqrkXAE7WB2nyIATLk,63,0.0105,0.628,222013,0.751,0,C#,0.119,-7.041,Minor,0.0991,159.965,3-Apr,0.44
+Anime,TK from Ling tosite sigure,Unravel,0GLyqTysS0DFoeKjURtB8s,65,0.0495,0.507,238360,0.889,0,G,0.0983,-2.755,Minor,0.086,135.021,4-Apr,0.333
+Anime,LiSA,Crossing Field,3mScGCzxiXA9OaHdBeuk7O,58,0.0157,0.447,248947,0.983,0,F,0.276,-2.281,Major,0.268,179.072,4-Apr,0.317
+Anime,KANA-BOON,Silhouette,21z1GxeHjfD3qkaF5CgCTO,65,1.05E-05,0.436,240133,0.934,0.136,D,0.321,-2.685,Major,0.0507,91.488,4-Apr,0.383
+Anime,UVERworld,Odd Future,0yy8QwH9OOgeF3CBeUDguR,60,0.015,0.694,225907,0.795,0,C,0.114,-4.649,Minor,0.0924,128.036,4-Apr,0.556
+Anime,amazarashi,Sora Ni Utaeba,6wZcefZGc6vrd3zLCQoOYe,60,0.0142,0.594,217627,0.951,1.18E-06,F#,0.0965,-1.339,Minor,0.0696,102.04,4-Apr,0.641
+Anime,THE ORAL CIGARETTES,Kyouran Hey Kids!!,38kcwx5znepLWCIBID0Bwm,62,0.00318,0.526,250973,0.981,0.00161,G#,0.187,-1.82,Major,0.111,142.016,4-Apr,0.781
+Anime,Cö Shu Nie,Asphyxia,49u6NxoLP5S6kfTYLmUfkQ,59,0.0348,0.253,174780,0.932,0,F,0.319,-3.346,Major,0.201,112.409,4-Apr,0.334
+Anime,Linked Horizon,Guren no Yumiya,70p3HYq9iHZisJqpDmWd1U,60,0.0232,0.455,310680,0.952,5.65E-05,C#,0.0662,-6.382,Minor,0.0787,90.365,4-Apr,0.332
+Anime,Porno Graffitti,The Day,1tjOClAkdMxDfYPO0xvGbG,59,0.000761,0.512,241627,0.933,0,C#,0.342,-4.759,Minor,0.0738,92.998,4-Apr,0.465
+Anime,ASIAN KUNG-FU GENERATION,Haruka Kanata,052C0m9kD30nZqcPWPPRqm,59,2.46E-05,0.316,243347,0.951,0.189,C#,0.17,-3.757,Minor,0.112,174.895,4-Apr,0.255
+Anime,Linked Horizon,Shinzo wo Sasageyo! - TV Size,27iksNpaur1CcH0w8703by,59,0.246,0.435,90000,0.953,0,C,0.123,-5.327,Major,0.0423,79.959,4-Apr,0.612
+Anime,Linked Horizon,Shoukei to Shikabane no Michi [TV Size],0q8WLWTRdN7XcNCoZIxCu9,59,0.226,0.408,90090,0.943,0,C,0.352,-4.579,Minor,0.0913,178.076,4-Apr,0.807
+Anime,Hello Sleepwalkers,Goya No Machiawase,5s0AxcVJJD2YYPstMb61ro,57,0.000891,0.406,170640,0.959,0,C,0.327,-3.014,Major,0.0952,94.277,4-Apr,0.571
+Anime,LiSA,ADAMAS,7xsTPnzpEcqCQguRxnBxOR,58,0.00906,0.508,225000,0.991,1.28E-05,C#,0.316,-1.768,Minor,0.123,95.524,4-Apr,0.295
+Anime,Kenshi Yonezu,Lemon,35KlorpQ6LQVVslvlcu1gN,59,0.366,0.533,256107,0.661,0,B,0.354,-4.924,Major,0.0268,86.978,4-Apr,0.446
+Anime,Hikaru Utada,Don't Think Twice,0u2DOByL0CghKtcvSkQAiQ,53,0.639,0.512,273800,0.672,0,G,0.123,-5.856,Minor,0.0456,127.624,3-Apr,0.348
+Anime,Yuki Hayashi,You Say Run,0hHc2igYYlSUyZdByauJmB,57,0.00141,0.358,228747,0.947,0.964,G,0.145,-5.102,Major,0.0932,87.508,4-Apr,0.357
+Anime,Ikimonogakari,Blue Bird,2XpV9sHBexcNrz0Gyf3l18,61,0.12,0.536,215707,0.966,0,F#,0.0477,-2.93,Minor,0.0557,152.078,4-Apr,0.85
+Anime,UVERworld,Touch off,2iscENxaM7EI43TVSyNUjz,57,2.86E-05,0.499,260707,0.891,0.000328,E,0.28,-3.757,Minor,0.046,99.999,4-Apr,0.215
+Anime,Hikaru Utada,Simple And Clean,2G8tfTExxzpRKssKzKwDYV,52,0.0514,0.599,300760,0.891,6.50E-05,F,0.921,-4.208,Minor,0.0479,88.003,4-Apr,0.559
+Anime,Shiro Sagisu,A Cruel Angel's Thesis - Director's Edit Version,57MPlXPzzMql6fTyldNAxe,51,0.0339,0.646,245093,0.676,1.99E-06,C,0.13,-9.477,Minor,0.0431,128.128,4-Apr,0.59
+Anime,FLOW,Sign,1hi0P1Y2he1p09xnUccuAN,58,0.0019,0.368,236427,0.906,0,B,0.344,-2.892,Minor,0.101,177.956,4-Apr,0.692
+Anime,Vickeblanka,Black Rover,04LCCxG3pbOYeENiyUc7Xb,58,0.00215,0.599,208300,0.932,0,B,0.146,-5.622,Major,0.0407,102.065,4-Apr,0.539
+Anime,Linked Horizon,Shinzo wo Sasageyo!,5uraJqtCBvLpwt3VeomZdq,57,0.22,0.44,341413,0.983,0,C,0.26,-4.36,Major,0.0868,159.968,4-Apr,0.203
+Anime,MYTH & ROID,Paradisus-Paradoxum,1JC0r7pvdrdbdJQBYfRc19,52,0.0264,0.384,231107,0.912,0,F,0.149,-4.091,Major,0.103,100.36,4-Apr,0.319
+Anime,LiSA,Datte Atashino Hero,1htJGL473Dub5QGKecXi9R,54,0.0275,0.531,234267,0.985,0,G#,0.197,-1.528,Major,0.13,94.467,4-Apr,0.321
+Anime,Mili,Rightfully (TV Animation Goblin Slayer opening),73tTDsjutmpFg31yIEvx8B,53,0.00423,0.39,213333,0.724,9.72E-05,E,0.102,-6.015,Minor,0.0635,181.91,4-Apr,0.301
+Anime,TK from Ling tosite sigure,Katharsis,0PnrdoLqdpScsUTYd06Zb8,54,0.0388,0.557,262227,0.826,0,G#,0.177,-3.185,Major,0.145,144.275,4-Apr,0.389
+Anime,MYTH & ROID,STYX HELIX,376H9fw1l6spwIfiNSDBmJ,52,0.0402,0.591,289573,0.859,1.58E-05,A,0.0596,-5.463,Major,0.0554,122.989,4-Apr,0.328
+Anime,Tia,Deal with the devil,2qEIVphvwMEkE35CXxdWAT,54,0.0232,0.492,282547,0.939,0.000196,D,0.304,-1.596,Major,0.158,141.942,4-Apr,0.693
+Anime,Hiroyuki Sawano,Attack on Titan,5IzZpz0vA73IIjqFPpXSXP,55,0.00182,0.54,256920,0.608,0.76,D,0.106,-8.498,Major,0.0508,125.01,4-Apr,0.0389
+Anime,OxT,Clattanoia,6DQgVAFIpmbXcJoRZbXRLc,50,0.0109,0.48,236187,0.953,0,G,0.142,-2.881,Minor,0.0815,94.913,4-Apr,0.616
+Anime,Nightmare,the WORLD,1g0SlTCGN9j3OicWHfSKEn,57,0.00353,0.531,228120,0.904,0,B,0.328,-3.869,Minor,0.0419,94.999,4-Apr,0.753
+Anime,RADWIMPS,Zenzenzense - movie ver.,2DLrgv7HhJanCuD8L9uJLR,56,0.000439,0.321,285880,0.906,0,B,0.0862,-3.967,Major,0.141,189.776,4-Apr,0.641
+Anime,REOL,????,3KLHSYHSmny4sJo2finqy9,52,0.000423,0.46,257733,0.977,0,C#,0.358,-2.184,Major,0.293,150.06,4-Apr,0.547
+Anime,MYTH & ROID,L.L.L.,77tRs6Jx8grzUdJYwEbvdy,50,0.0231,0.558,216187,0.902,1.59E-06,E,0.403,-3.603,Minor,0.107,104.073,4-Apr,0.702
+Anime,KANA-BOON,???????,1dsh4buvcBs2u7YtHy29c7,57,0.0002,0.471,262693,0.77,0.00308,F#,0.0974,-3.783,Minor,0.102,174.85,4-Apr,0.529
+Anime,Linked Horizon,Jiyuu no Tsubasa,188vCXc4bAejLqGhpEVBGT,55,0.0619,0.373,331947,0.972,3.31E-05,G,0.379,-6.005,Major,0.123,157.433,4-Apr,0.0759
+Anime,ASCA,Resister,2lO9sYbtyixyMIlj3TDcuU,54,0.00921,0.48,227573,0.945,0,F,0.145,-3.195,Minor,0.081,91.503,4-Apr,0.396
+Anime,Hikaru Utada,Face My Fears - Japanese Version,7nHeBk3OsoBCLlQNpSxEgn,51,0.0135,0.626,222013,0.729,0,C#,0.133,-6.785,Minor,0.102,159.762,3-Apr,0.441
+Anime,FLOW,Colors,0ggHt5jwwtMsWME2PDB6a0,53,0.0353,0.458,218493,0.877,0,C#,0.106,-4.229,Major,0.0503,136.034,4-Apr,0.386
+Anime,TeddyLoid,"Me!Me!Me!, Pt. 1",5hkfqHuQklmau0dl40iMYD,50,0.000962,0.598,92213,0.883,0.0254,G,0.103,-9.341,Minor,0.0685,125.013,4-Apr,0.402
+Anime,BRADIO,Flyers,6VBQ4DF4fwPJNA96RbMQWT,55,0.0167,0.45,210084,0.857,0,F#,0.202,-2.35,Major,0.0398,139.064,4-Apr,0.755
+Anime,UVERworld,CORE PRIDE,6VQGwkK0U0YcLJcr348Wqz,54,0.00629,0.468,257560,0.97,0,D,0.253,-2.974,Minor,0.179,92.732,4-Apr,0.499
+Anime,LiSA,Gurenge,23DbzwNJSLo7nkSWjODMvY,53,0.00339,0.545,238587,0.979,0.000118,E,0.0775,-2.8,Minor,0.153,135.002,4-Apr,0.309
+Anime,BACK-ON,STRIKE BACK,5QSt0jnVuPdQsC9plgW3lz,53,0.00535,0.469,227467,0.942,0,C#,0.306,-2.481,Major,0.0956,179.951,4-Apr,0.589
+Anime,LiSA,Rising Hope,4ATrjNUnSvzskzN3HF8cPR,50,0.0659,0.515,253213,0.976,0,G#,0.0707,-2.741,Major,0.386,189.92,4-Apr,0.639
+Anime,QUEEN BEE,Fire,3xVCQGla5LLhrwqNS2FcHo,55,0.034,0.521,215973,0.933,2.07E-05,B,0.33,-4.874,Minor,0.179,169.842,4-Apr,0.607
+Anime,Mika Nakashima,Kiss of Death (Produced by Hyde),5783FVFtXJMM094CCdHPC5,52,0.000718,0.539,249693,0.915,0,F,0.363,-2.848,Major,0.0703,121.974,4-Apr,0.23
+Anime,Hiroyuki Sawano,You See Big Girl / T:T,4dHOnPucB5VBYq3gjRtYy9,53,0.00756,0.186,359347,0.679,0.884,G,0.128,-7.884,Minor,0.0441,86.867,4-Apr,0.227
+Anime,ASIAN KUNG-FU GENERATION,Blood Circulator,3xQBvKxm8mdy9OBLiJDcwB,52,0.0494,0.384,222827,0.975,0,C,0.331,-2.854,Major,0.123,180.97,4-Apr,0.298
+Anime,REOL,LUVORATORRRRRY!,1AMzUKhF0vCFHZTx8H7OS4,50,0.0169,0.679,204187,0.951,0.0882,F#,0.0176,-3.066,Minor,0.147,128.008,4-Apr,0.945
+Anime,REOL,???Loading...,5ZBs9dRavxKAS23WT1MwkQ,49,0.179,0.754,205787,0.988,0,B,0.282,-2.678,Minor,0.176,128.021,4-Apr,0.906
+Anime,MADKID,RISE,1p8B91IjEd9fjOPOSsEN75,55,0.0182,0.47,206213,0.932,0,G,0.464,-3.202,Major,0.174,164.981,4-Apr,0.584
+Anime,RADWIMPS,Dream lantern,5mEqD00bdFcsiVd0MfvEeF,55,0.0316,0.206,131667,0.871,6.55E-05,G#,0.0596,-5.751,Major,0.419,175.6,3-Apr,0.125
+Anime,MAN WITH A MISSION,Seven Deadly Sins,5jCUbYzrTSVlNdhZgiguWF,51,0.00497,0.371,207000,0.967,0,G#,0.223,-1.199,Minor,0.15,142.909,3-Apr,0.345
+Anime,FLOW,Go!!!,0GSs0GV34KX7KCpLw9tWjk,53,0.0264,0.599,239333,0.953,0,B,0.212,-4.828,Major,0.0605,133.984,4-Apr,0.921
+Anime,RADWIMPS,Sparkle - movie ver.,3A4FRzgve9BjfKbvVXRIFO,55,0.687,0.372,537653,0.426,0.00784,B,0.109,-8.421,Major,0.0339,123.993,4-Apr,0.287
+Anime,Aimer,Brave Shine,0f34MnV51uwA1jhPQ2XnDe,54,0.00307,0.365,233493,0.893,6.55E-06,F,0.141,-5.912,Minor,0.0909,171.08,4-Apr,0.46
+Anime,BURNOUT SYNDROMES,Fly High!!,1y3Ml1b1c4v3ZdpbWLKD1F,53,0.0133,0.468,244493,0.961,0,B,0.331,-1.434,Major,0.0727,94.646,4-Apr,0.354
+Anime,EGOIST,Departures - Anata Ni Okuru Ai No Uta,33w7LgNJIuhs5dhSYZ0do1,48,0.493,0.473,255013,0.431,0,D,0.0752,-8.172,Major,0.0305,143.862,4-Apr,0.283
+Anime,RADWIMPS,Nandemonaiya - movie ver.,7dEfa89dZfo6CQPdsgGCF6,55,0.245,0.496,344053,0.462,0,F#,0.282,-6.189,Major,0.0307,167.936,4-Apr,0.514
+Anime,Ikimonogakari,Netsujo No Spectrum,1p0WZg4NXoNVGj2AuoLJe7,56,0.0593,0.476,223613,0.902,0,B,0.394,-2.665,Minor,0.0436,160.025,4-Apr,0.746
+Anime,Kenshi Yonezu,Loser,7wa1cHqTRdjXZuqo4iigj1,51,0.00463,0.679,243813,0.931,0,C#,0.0652,-3.739,Minor,0.0474,121.007,4-Apr,0.962
+Anime,FLOW,Howling,1Iexk6Gy5GJLxeXD5fqf85,54,0.000106,0.507,261547,0.949,0,C,0.087,-1.701,Major,0.0561,99.973,4-Apr,0.49
+Anime,LiSA,Catch the Moment,13sxKGMd5RDQYavHyZ8Flw,52,0.0575,0.403,282627,0.978,1.67E-06,G,0.331,-1.875,Major,0.146,190.062,4-Apr,0.443
+Anime,RADWIMPS,Katawaredoki,4WedBZTeFawYCBCgfj36iK,49,0.964,0.548,170027,0.0956,0.905,F,0.0933,-14.196,Major,0.0468,129.933,4-Apr,0.22
+Anime,Cö Shu Nie,Zettai Zetsumei,5IPMccMIWC5Kuo1tvgNc9k,50,0.0541,0.325,148920,0.936,0,D#,0.0312,-4.539,Minor,0.193,143.035,4-Apr,0.492
+Anime,ASIAN KUNG-FU GENERATION,Re: Re:,7gehOKSGfZgjIJSxiyE8oD,50,0.000254,0.464,332240,0.869,0.000403,F#,0.248,-5.05,Minor,0.0502,155.009,4-Apr,0.506
+Anime,ZAQ,Seven Doors,74ZcoP9bqvEvCBJrpEQ3T6,50,0.00553,0.596,236653,0.95,0,D,0.291,-2.718,Minor,0.0609,101.463,4-Apr,0.628
+Anime,Maretu,Mind brand,2KvhjbZPPtNXTB6wib1rXB,48,0.00806,0.52,259231,0.963,0.000151,A#,0.175,-2.662,Minor,0.0498,155.934,4-Apr,0.567
+Anime,Yasuharu Takanashi,FAIRY TAIL Main Theme,7JoZiEMrwjpD18krCV8Czo,51,2.93E-05,0.462,152347,0.9,0.905,D,0.312,-3.578,Minor,0.0393,110.008,4-Apr,0.366
+Anime,Aimer,Kataomoi,6g93YtKKHU2H1qIqhLIL0Y,55,0.78,0.619,207360,0.534,0,C#,0.331,-5.974,Major,0.0344,96.986,4-Apr,0.792
+Anime,"Fear, and Loathing in Las Vegas",Let Me Hear,5sqkarfxe7UejHTlCtHCLS,55,0.000145,0.175,225547,0.995,2.50E-06,F#,0.214,1.023,Minor,0.211,184.066,4-Apr,0.303
+Anime,Hiroyuki Sawano,The Reluctant Heroes,6zSXcvXQ8T74fXm72OpSOb,51,0.00486,0.552,267120,0.804,2.75E-05,B,0.414,-7.233,Minor,0.0968,127.039,4-Apr,0.543
+Anime,ASIAN KUNG-FU GENERATION,After Dark,1VKr8751CzE7DB4AuEmS3V,49,0.0023,0.392,192027,0.948,0,C#,0.0653,-3.707,Major,0.0456,190.937,4-Apr,0.593
+Anime,Hikaru Utada,Simple And Clean - PLANITb Remix,0NGgGj5L3VztJb3zKIwpRp,45,0.0123,0.661,343493,0.89,0.00189,G#,0.117,-8.021,Major,0.0585,130.047,4-Apr,0.489
+Anime,Hikaru Utada,Simple And Clean - Ray Of Hope MIX,68wEEgRMaFv0PXYVgCQrtp,45,0.0393,0.598,333800,0.937,0.045,A#,0.819,-4.669,Major,0.0392,123.693,4-Apr,0.632
+Anime,EGOIST,The Everlasting Guilty Crown,76jRSSkd4pLwUflgwSeuB0,46,0.00731,0.35,325320,0.935,1.79E-05,C#,0.339,-4.368,Minor,0.0907,171.993,4-Apr,0.333
+Anime,MADKID,FAITH,44lKrkOoVAfim3282BcnUc,52,0.00839,0.531,203507,0.973,0,F,0.326,-2.49,Minor,0.213,156.947,4-Apr,0.64
+Anime,Hiroyuki Sawano,Call Your Name,2LYhS0VbCzbE6alAI3Q7Ot,50,0.0145,0.567,268333,0.3,0,B,0.0687,-8.421,Minor,0.0291,141.819,4-Apr,0.196
+Anime,Joe Hisaishi,Spirited Away - One Summer's Day,5GQAHsTo4DI71QLAXUo3DV,53,0.949,0.326,292093,0.101,0.882,C,0.0403,-21.534,Major,0.0385,143.289,4-Apr,0.0891
+Anime,OxT,GO CRY GO,3QH93rAs2Od0Gbxs2fn4gI,44,0.0134,0.491,219160,0.979,0,A,0.32,-3.197,Major,0.0981,101.03,4-Apr,0.399
+Anime,Hiroyuki Sawano,Call of Silence,7k1HoUdskuBhyWvm7hPctM,49,0.642,0.504,178213,0.38,0.857,F#,0.0697,-11.826,Minor,0.037,123.911,4-Apr,0.0535
+Anime,Motohiro Hata,???????,3ILmwMefYZoQh5Cf5jeuUQ,51,0.076,0.373,232360,0.914,0,C,0.669,-4.185,Major,0.0565,168.21,4-Apr,0.56
+Anime,EGOIST,Namae No Nai Kaibutsu,7M2qLDA7hAwKgyrTjJfI2C,44,0.000236,0.338,317267,0.896,0.000705,A#,0.311,-5.984,Major,0.171,179.832,4-Apr,0.237
+Anime,Eir Aoi,Iris,2SsLcXEBuTZYv6mW1a3C53,50,0.109,0.595,247427,0.895,0,A,0.242,-2.619,Minor,0.0504,129.034,4-Apr,0.696
+Anime,Kenshi Yonezu,Spirits of the Sea,4HHboK1nN2moxSvQE6Rg3J,50,0.72,0.511,234184,0.387,1.02E-05,A,0.156,-10.435,Major,0.0423,89.906,4-Apr,0.145
+Anime,Kenshi Yonezu,Orion,1vAxW4D0wwfLaf12bkqlvB,49,0.103,0.701,281907,0.613,0,G#,0.231,-4.93,Major,0.028,104.021,4-Apr,0.505
+Anime,SPYAIR,Imagination,66Aox16AXYiqZum37rTDRG,46,0.00227,0.486,177853,0.936,3.34E-05,C#,0.168,-2.957,Major,0.0546,101.993,4-Apr,0.551
+Anime,Shoko Nakagawa,Sorairo Days,7bzzGFwksi98NJfdGXjuav,48,0.00137,0.398,251640,0.971,0.000323,B,0.344,-2.873,Minor,0.125,174.021,4-Apr,0.502
+Anime,MYTH & ROID,TRAGEDY:ETERNITY,4lfWouzRu2nxSIV9GV59NM,44,0.00136,0.398,231587,0.864,0,D,0.209,-5.879,Major,0.133,184.853,4-Apr,0.299
+Anime,MAXIMUM THE HORMONE,"What's up, people?!",4NPIkDt08kLz70gHOrO5uU,52,0.0329,0.385,250227,0.976,0.00767,G,0.445,-3.788,Major,0.252,160.977,4-Apr,0.206
+Anime,ASIAN KUNG-FU GENERATION,Re:Re: - 2016 Rerecorded,4eSSRTR5guMgoLaB4YmFwi,47,2.30E-05,0.449,326960,0.904,0.212,F#,0.14,-5.264,Minor,0.0395,155.047,4-Apr,0.738
+Classical,Johann Sebastian Bach,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",61dYvvfIRtIDFuqZypPAta,66,0.9,0.257,151480,0.109,0.867,G,0.0762,-21.356,Major,0.0597,75.02,4-Apr,0.307
+Classical,Harold Budd,Olancha Farewell,4KyJQKAFvEH4F52qSMuwIF,69,0.992,0.196,138427,0.00687,0.917,G,0.106,-34.255,Major,0.0442,72.125,4-Apr,0.053
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467 ""Elvira Madigan"": II. Andante",2YarjDYjBJuH63dUIh9OWv,68,0.982,0.194,433800,0.0324,0.961,F,0.0916,-28.215,Major,0.0382,144.13,4-Apr,0.0596
+Classical,Ludwig van Beethoven,"Sonata No. 14 ""Moonlight"" in C-Sharp Minor"", Op. 27 No. 2: I. Adagio sostenuto",3DNRdudZ2SstnDCVKFdXxG,68,0.995,0.184,315427,0.00527,0.887,C#,0.173,-37.264,Minor,0.0432,170.612,3-Apr,0.151
+Classical,Harold Budd,The Whispers,4VH3rKj1tmhUZtX3U43jBq,68,0.995,0.228,163000,0.00385,0.917,A,0.0858,-35.213,Minor,0.0449,141.201,3-Apr,0.117
+Classical,Jóhann Jóhannsson,Flight From The City,3Sy6wgTNEp6vSgLs4EyXAf,66,0.932,0.13,391160,0.086,0.912,A#,0.108,-21.92,Major,0.0373,90.223,4-Apr,0.0375
+Classical,DragonForce,Through The Fire And Flames,6nnacTL5on2aVsRhVDNUSo,63,0.00176,0.113,441560,0.951,0.00718,C,0.334,-4.743,Minor,0.129,200.024,4-Apr,0.139
+Classical,Harold Budd,The Plateaux Of Mirror - 2004 Digital Remaster,75Q2oWlmhsTiM9KTbjyduU,64,0.988,0.234,253893,0.0138,0.83,G#,0.106,-30.699,Minor,0.0487,91.085,4-Apr,0.0344
+Classical,Frédéric Chopin,"Chopin: 24 Preludes, Op. 28: No. 15 in D-Flat Major, ""Raindrop""",4q8f3Ls32PcXE8Ks4V1ufx,65,0.995,0.398,348333,0.00293,0.922,C#,0.0897,-29.481,Major,0.0666,130.464,4-Apr,0.0804
+Classical,Harold Budd,Foreshadowed - 2005 Digital Remaster,6vo5a9n1HWYroioj7k6gZS,64,0.992,0.342,232440,0.0314,0.906,D#,0.0767,-25.319,Minor,0.0439,100.022,4-Apr,0.117
+Classical,Claude Debussy,Suite bergamasque: Suite bergamasque: III. Clair de lune. Andante très expressif,6N7JzrteJv8lsr1GWYyu0b,65,0.993,0.343,279160,0.0252,0.932,C#,0.0454,-27.013,Major,0.0488,67.207,5-Apr,0.0395
+Classical,Wolfgang Amadeus Mozart,"Concerto for Flute & Harp in C Major, K. 299: II. Andantino",32vorozGvLK6PPEpyysMKe,0,0.969,0.235,533320,0.024,0.577,F,0.0889,-27.534,Major,0.0433,93.723,4-Apr,0.105
+Classical,Wolfgang Amadeus Mozart,"Clarinet Concerto in A Major, K. 622: II. Adagio",1xVoEzjTl55M37ugGDDeTm,0,0.979,0.0768,439000,0.008,0.0606,D,0.094,-26.25,Major,0.0495,81.163,4-Apr,0.0654
+Classical,Wolfgang Amadeus Mozart,"Piano Sonata No. 11 in A Major, K. 331: III. Alla turca",3v5OruWdyeFaEfgFSoSmvh,0,0.974,0.528,214096,0.188,0.959,A,0.143,-16.671,Major,0.0557,126.705,4-Apr,0.868
+Classical,Wolfgang Amadeus Mozart,"Oboe Concerto in C Major, K. 314: III. Allegro",0YYKh4qo4uH7UhKtgh6DVj,0,0.965,0.494,365200,0.185,0.955,C,0.0583,-18.148,Major,0.0461,117.663,4-Apr,0.602
+Classical,Wolfgang Amadeus Mozart,"Violin Concerto No. 3 in G Major, K. 216: I. Allegro",1Fd6GlsIp1SUt7hTsEjOkc,0,0.944,0.369,540040,0.0819,0.465,G,0.592,-19.679,Major,0.0392,133.743,4-Apr,0.423
+Classical,Wolfgang Amadeus Mozart,"Flute Quartet No. 1 in D Major, K. 285: I. Allegro",1qXkRw2lJjQ6xnJcBBF6Xr,0,0.971,0.388,411347,0.147,0.896,D,0.139,-18.226,Major,0.0429,131.953,4-Apr,0.41
+Classical,Wolfgang Amadeus Mozart,"Piano Sonata No. 16 in C Major, K. 545 ""Sonata facile"": II. Andante",07wpLlfWVtshuHi5dvafjx,0,0.995,0.359,354164,0.0655,0.857,G,0.0809,-27.828,Major,0.057,160.506,4-Apr,0.37
+Classical,Wolfgang Amadeus Mozart,"Violin Concerto No. 3 in G Major, K. 216: II. Adagio",2vTrHWr8jsATELdw0s0Isp,0,0.896,0.115,524907,0.0608,0.26,D,0.0972,-26.801,Major,0.0485,169.681,3-Apr,0.111
+Classical,Wolfgang Amadeus Mozart,"Clarinet Quintet in A Major, Op. 108, K. 581: I. Allegro",48yFPoQUWUNB2bJTmQB9jb,0,0.988,0.248,553160,0.0709,0.354,A,0.136,-21.553,Major,0.0444,122.497,4-Apr,0.171
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 23 in A Major, K. 488: II. Adagio",60i7X6YEDy43fwo7Jjo4jt,0,0.988,0.245,451867,0.0132,0.892,F#,0.12,-26.487,Minor,0.0358,80.901,3-Apr,0.0523
+Classical,Wolfgang Amadeus Mozart,"Oboe Quartet in F Major, K. 370: II. Adagio",1hGqEnU3nSiFyAh1jABd01,0,0.984,0.262,198027,0.156,0.896,A#,0.176,-17.629,Major,0.0432,132.983,4-Apr,0.0473
+Classical,Wolfgang Amadeus Mozart,"Violin Concerto No. 3 in G Major, K. 216: III. Rondeau. Allegro",36ZJUBOCI9ejzvERIamkrI,0,0.938,0.429,397093,0.116,0.21,G,0.364,-20.84,Major,0.0446,141.889,3-Apr,0.487
+Classical,Wolfgang Amadeus Mozart,"Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato",4AwUWcxVyaMehfk3JDsTc8,0,0.994,0.359,369160,0.0298,0.931,C,0.0702,-30.033,Major,0.0397,141.49,4-Apr,0.616
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 20 in D Minor, K. 466: II. Romance",7hgddJtC8LyDlgG5LZY4cB,0,0.989,0.215,493973,0.0404,0.833,A#,0.118,-24.241,Major,0.0329,94.451,4-Apr,0.112
+Classical,Claude Debussy,"Rêverie, L. 68: Rêverie",43bSKCMWHIuBsUVmQcDX1J,65,0.994,0.242,257000,0.00898,0.909,G,0.0814,-31.811,Minor,0.0424,68.88,5-Apr,0.0549
+Classical,Claude Debussy,"Clair de Lune, L. 32",5u5aVJKjSMJr4zesMPz7bL,64,0.994,0.335,268000,0.00532,0.912,C#,0.0621,-31.646,Major,0.0376,65.832,4-Apr,0.0397
+Classical,Frédéric Chopin,Nocturne en mi bémol majeur opus 9 n°2: Ballade en Sol Mineur No.1,7n92QzQomRCLlciO14X0kd,66,0.99,0.387,268427,0.0451,0.913,D#,0.112,-24.698,Major,0.0364,61.494,4-Apr,0.071
+Classical,Franz Schubert,"4 Impromptus, Op.90, D.899: No.4 in A Flat Major: Allegretto",4acoaqSa5dno7qMFExRG2w,64,0.989,0.333,497773,0.0195,0.914,G#,0.131,-26.862,Major,0.0386,68.66,3-Apr,0.0391
+Classical,Frédéric Chopin,"Nocturnes, Op. 9: No. 2, Andante in E-Flat Major",5zHfh7X1ioaXz0r534ScWY,0,0.981,0.377,247525,0.113,0.905,D#,0.146,-20.774,Major,0.0427,68.426,3-Apr,0.11
+Classical,Frédéric Chopin,"Grande valse brillante, Op. 18",7HmokL6bI4YxNJchaXd66t,0,0.98,0.294,316604,0.152,0.957,G#,0.113,-19.927,Major,0.0385,84.087,4-Apr,0.319
+Classical,Frédéric Chopin,"Waltz in A-Flat Major, Op. 42",6VYR60pizHnoDixvwcnBwG,0,0.992,0.363,238733,0.0883,0.9,G#,0.119,-21.348,Major,0.0404,71.272,3-Apr,0.195
+Classical,Frédéric Chopin,"Waltzes, Op. 64: No. 1, Molto vivace in D-Flat Major ""Minute Waltz""",3QB7EYptM7yg9Xs5I1nURp,0,0.991,0.295,113120,0.126,0.883,G#,0.21,-23.669,Major,0.034,47.086,4-Apr,0.447
+Classical,Frédéric Chopin,"Waltzes, Op. 69: No. 1 in A-Flat Major ""Farewell Waltz""",4U4DBL2Zq1mb6ptnJY5gEu,0,0.996,0.314,217467,0.0257,0.899,G#,0.107,-28.265,Major,0.0423,60.278,4-Apr,0.159
+Classical,Frédéric Chopin,"Préludes, Op. 28: No. 15, Sostenuto in D-Flat Major ""Raindrops""",2Hih66JE9AKxxWJJEnh42c,0,0.992,0.375,313640,0.0135,0.921,C#,0.132,-22.472,Major,0.054,77.361,3-Apr,0.065
+Classical,Ludwig van Beethoven,Beethoven : Symphony No.9 in D minor Op.125 : II Molto vivace,6lnttZF0hDaVyVZBEgpJ3I,64,0.964,0.364,822307,0.189,0.82,D,0.0769,-22.125,Minor,0.0425,111.408,4-Apr,0.283
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: Lacrimosa",3oHSL6pt9LpNrQZuQGu9wL,65,0.944,0.162,169667,0.0898,0.917,D,0.187,-23.269,Minor,0.0354,132.047,3-Apr,0.0413
+Classical,Ludwig van Beethoven,"Für Elise, WoO 59",6MQAB3vorg90FA3tQpbYXK,65,0.994,0.303,188467,0.108,0.877,A,0.0805,-27.433,Minor,0.0473,126.931,3-Apr,0.18
+Classical,Hugar,Inngangur,4ndRB3B9iP6fx3YiCFr5es,63,0.995,0.405,87517,0.00996,0.954,A,0.0908,-29.706,Minor,0.042,67.82,3-Apr,0.349
+Classical,Wolfgang Amadeus Mozart,"Le Nozze di Figaro, K. 492: Sinfonia",4rjnWmrSRqXVkFWdKMG3pV,64,0.839,0.386,251200,0.0738,0.947,D,0.155,-19.369,Major,0.0433,142.499,4-Apr,0.172
+Classical,Mykola Dmytrovych Leontovych,Carol of the Bells,4tHqQMWSqmL6YjXwsqthDI,63,0.994,0.418,85267,0.106,0.0292,G#,0.179,-22.507,Minor,0.0448,46.718,4-Apr,0.8
+Classical,Johann Sebastian Bach,"Suite No. 3 in D Major, BWV 1068: II. Air",64fi2ffBK8IHNfbHjtFwNp,0,0.976,0.0644,195333,0.0199,0.843,F,0.109,-28.175,Major,0.0469,71.292,3-Apr,0.0962
+Classical,Johann Sebastian Bach,"Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano",2qnjRS16uY73hceHLkivSy,0,0.98,0.319,123933,0.00922,0.00342,G,0.105,-29.853,Minor,0.0346,100.505,3-Apr,0.169
+Classical,Johann Sebastian Bach,"Partita in B-Flat Major, BWV 825: IV. Sarabande",18vwG2NjmKmXQeFABh215H,0,0.995,0.319,536927,0.0106,0.886,G,0.0674,-30.008,Major,0.0708,75.247,4-Apr,0.326
+Classical,Johann Sebastian Bach,"Prelude, Fugue and Allegro in E-Flat Major, BWV 998: I. Prelude",0T6W7WCyAZ1JQ8tPkMev1f,0,0.974,0.453,154880,0.355,0.887,D#,0.226,-21.668,Major,0.0533,121.12,3-Apr,0.871
+Classical,Johann Sebastian Bach,"Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie",5f8ysfxe0Cfuf3geynu0Un,0,0.847,0.515,90107,0.269,0.0897,B,0.0757,-21.859,Minor,0.037,130.998,4-Apr,0.964
+Classical,Johann Sebastian Bach,"Concerto for Violin & Oboe in C Minor, BWV 1060R: I. Allegro",1lqSmvfWoC8lViiFP26gVM,0,0.913,0.417,279067,0.241,0.286,C,0.0705,-17.499,Minor,0.0409,98.371,4-Apr,0.593
+Classical,Johann Sebastian Bach,"Prelude & Fugue in D Major, BWV 532",5iRGYeD8uvXXFJ9i3PIWbw,0,0.951,0.177,718307,0.0583,0.887,D,0.125,-19.956,Major,0.0376,86.991,4-Apr,0.175
+Classical,Johann Sebastian Bach,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",3R1UVctFXDItsKqwDVmqrx,0,0.995,0.527,224860,0.0188,0.896,D,0.0773,-30.6,Major,0.0549,105.338,4-Apr,0.199
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: IV. Domine Jesu",0TCFbpSMaCJGQrGaIX2o8l,16,0.985,0.124,220200,0.363,0.657,G,0.276,-15.79,Minor,0.0369,85.461,4-Apr,0.14
+Classical,Wolfgang Amadeus Mozart,"Divertimento in D Major, K. 136 ""Salzburg Symphony No. 1"": II. Andante",4lWZhumFcgMFCoLVuD0VLE,10,0.571,0.204,249133,0.0838,0.888,G,0.196,-23.778,Major,0.0462,104.656,3-Apr,0.0922
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: V. Sanctus",1kVgtxBv60pDuyN0Hp5C3i,16,0.972,0.208,137613,0.478,0.973,D,0.116,-10.248,Major,0.034,90.294,3-Apr,0.0619
+Classical,Wolfgang Amadeus Mozart,"Divertimento in D Major, K. 136 ""Salzburg Symphony No. 1"": III. Presto",67Yb1w58fyXQUYZyRpx7Rv,10,0.722,0.601,184667,0.305,0.644,D,0.769,-18.885,Major,0.188,80.129,4-Apr,0.52
+Classical,Wolfgang Amadeus Mozart,"6 Minuets, K. 599: No. 5 in F Major",3cG8oTFUsxjf4Bf4CeKLX4,0,0.706,0.566,121000,0.00897,0.699,C,0.104,-22.69,Major,0.0468,125.932,3-Apr,0.652
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act II: Già de' publici giuochi",2ZfoKcjEfCJBsZXqRApTrp,0,0.931,0.385,68400,0.28,0,F,0.79,-26.128,Major,0.222,143.527,3-Apr,0.197
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620: Der Hölle Rache kocht in meinem Herzen",4mejASKZBaj8jPsHvvNwTn,31,0.98,0.422,199400,0.18,0.358,F,0.685,-19.507,Major,0.0695,138.764,4-Apr,0.234
+Classical,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: II. Kyrie eleison (Live)",6nwwcAHBUNask9NN5MeXXw,13,0.993,0.275,179240,0.409,0.825,A#,0.215,-16.666,Major,0.0322,77.858,4-Apr,0.225
+Classical,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492 (Excerpts Sung in German): Ich weiss nicht, wo ich bin",1jjnTvb2gLjBM1mmgIAheI,29,0.98,0.273,196307,0.0962,0,D#,0.0965,-19.324,Major,0.0668,69.095,4-Apr,0.209
+Classical,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492 (Excerpts Sung in German): Endlich naht sich die Stunde - O säume länger nicht",0QA78fOAyDPzKIcCpRLAPO,26,0.955,0.248,343560,0.119,2.91E-05,F#,0.136,-22.942,Major,0.0942,81.231,3-Apr,0.0567
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620: Der Vogelfänger bin ich ja",3ov9rNQounEzW1UK8vx2BU,29,0.737,0.371,163760,0.165,0,D,0.175,-22.643,Major,0.0532,79.594,4-Apr,0.566
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: I. Allegro maestoso",4f9ZydAFCHA1ViyPnwyg4o,25,0.961,0.341,843013,0.194,0.903,C,0.122,-17.987,Major,0.0322,135.504,4-Apr,0.202
+Classical,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492 (Excerpts Sung in German): Warum gabst bis heute",3IStc2hY3tWSOKsucfdjwr,28,0.983,0.348,184093,0.123,0,A#,0.135,-20.012,Major,0.0503,99.165,4-Apr,0.233
+Classical,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527: Il mio tesoro intanto",1wNsQ2Evh3o0xCXG7KsxWc,26,0.976,0.172,299267,0.261,0.00401,F,0.398,-17.024,Major,0.0381,84.055,4-Apr,0.241
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai",3Lmnkxi1h9Edl46yMJ5iFG,22,0.978,0.422,351920,0.235,0.939,C,0.105,-18.14,Major,0.0406,86.611,4-Apr,0.274
+Classical,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492 (Excerpts Sung in German): Wo Susanna nur bleibt - Wohin seid ihr, oh Stunden der Wonne",2h8Ga6t1vhz2bmPzwSwNI5,27,0.981,0.356,443640,0.128,0,C,0.856,-19.055,Major,0.0571,131.599,4-Apr,0.145
+Classical,Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492: Hai gia vinta la causa! Cosa sento!",0VJeVUVgmVZH17jVDmgHJU,23,0.945,0.364,308427,0.205,5.51E-06,D,0.499,-16.808,Major,0.0467,85.166,4-Apr,0.275
+Classical,Wolfgang Amadeus Mozart,"Concerto No. 4 in E-Flat Major, K.495: III. Rondo. Allegro Vivace",5Wawc2UZ2scEbF8sm8t5uq,23,0.993,0.417,238264,0.126,0.899,A#,0.109,-21.573,Major,0.0474,121.678,4-Apr,0.517
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384: Welch ein Geschick! O Qual der Seele!",1yio1WvSGetr8B7a99HwFH,25,0.957,0.334,426307,0.172,0,A#,0.0867,-16.685,Major,0.0629,81.245,4-Apr,0.159
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 21 in C Major, K. 467: II. Andante",60svToMOiATaYwHFqGIhqo,23,0.978,0.145,496187,0.0718,0.946,F,0.0998,-22.859,Major,0.0371,83.082,4-Apr,0.0536
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620: Ach ich fühls",5O6rVbLdJc8auTv4crDexh,24,0.984,0.235,297427,0.103,0.078,C,0.917,-23.087,Minor,0.0537,81.868,4-Apr,0.0365
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620: Dies Bildnis sind bezaubernd schon",485l6EnvGtKwA6GqxUBwYa,24,0.952,0.212,264867,0.233,2.37E-05,D#,0.796,-16.993,Major,0.0847,71.632,3-Apr,0.108
+Classical,Wolfgang Amadeus Mozart,"Così fan tutte, K. 588: Sento, o Dio",49GwmcEiGRcxViC5fvxGjE,24,0.953,0.375,200573,0.125,0,D#,0.118,-22.603,Major,0.12,80.676,3-Apr,0.197
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 27 in B-Flat Major, K. 595: I. Allegro",54I9FJLCbRvmEV5LC2tDd8,22,0.977,0.339,755347,0.144,0.861,A#,0.113,-16.503,Major,0.0362,137.303,4-Apr,0.206
+Classical,Wolfgang Amadeus Mozart,"Don Giovanni, K. 527: Ah taci ingiusto core",5PcT9QgTJLAYqwxLjRKKRp,22,0.947,0.288,245827,0.249,5.10E-05,E,0.453,-18.8,Major,0.0554,128.846,3-Apr,0.237
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620: Wie stark ist nicht dein Zauberton! - Schnell Füsse",2M8NM6wJ59HIR4cPCJ6IIP,22,0.911,0.326,368640,0.133,0,G,0.13,-20.493,Major,0.0557,92.09,4-Apr,0.206
+Classical,Wolfgang Amadeus Mozart,"Concerto No. 3 in E-Flat Major, K.447: II. Romance. Larghetto",3Ipiuqip3IL0gUaIGSPWf0,21,0.991,0.195,226022,0.0159,0.787,G#,0.108,-26.157,Major,0.0443,87.618,4-Apr,0.154
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto",3XPkemei3U9hsL9QDaGbCD,21,0.988,0.296,510280,0.0222,0.735,D#,0.114,-23.711,Major,0.0389,132.098,4-Apr,0.0714
+Classical,Wolfgang Amadeus Mozart,"Concerto No. 2 in E-Flat Major, K.417: I. Allegro",7B7uuJxsw4DCPySz21DstF,21,0.99,0.323,380472,0.0546,0.915,D#,0.0725,-22.47,Major,0.04,124.164,4-Apr,0.225
+Classical,Wolfgang Amadeus Mozart,"Concerto No. 3 in E-Flat Major, K.447: I. Allegro",29lQckJgUUlqkiGFDIcNfU,22,0.989,0.42,422964,0.0566,0.933,D#,0.174,-22.701,Major,0.0432,126.681,4-Apr,0.313
+Classical,Wolfgang Amadeus Mozart,"Concerto No. 1 in D Major, K.412/518: I. Allegro",6mRiDADi4S4yrEXPsqF5be,22,0.973,0.467,290666,0.103,0.859,D,0.0795,-20.519,Major,0.0402,121.907,4-Apr,0.488
+Classical,Wolfgang Amadeus Mozart,"Concerto No. 2 in E-Flat Major, K.417: III. Rondo. Allegro",1BttMb6Nz8LJLnx316SJ7h,20,0.992,0.397,212040,0.0738,0.927,D#,0.134,-20.75,Major,0.0408,103.868,4-Apr,0.495
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: III. Pt. 3, Rex tremendae",7jaqUUY44K7S2zV20sHrmY,18,0.981,0.217,153693,0.307,0.96,G,0.356,-14.019,Minor,0.0401,124.162,4-Apr,0.125
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act I: Ach ich liebte, war so glücklich",3BcR3R978DEklkPNXK5rtG,18,0.975,0.377,328667,0.0969,0.000466,A#,0.68,-23.737,Major,0.0735,117.68,4-Apr,0.159
+Classical,Wolfgang Amadeus Mozart,"Concerto No. 4 in E-Flat Major, K.495: I. Allegro Maestoso",3JTPwxy3cSmCPFCtR5UZYP,24,0.988,0.38,490600,0.0772,0.948,D#,0.312,-20.233,Major,0.0403,125.793,4-Apr,0.208
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: III, Pt. 5, Confutatis",0rHIjwLApBG1yqtZA20Pho,17,0.991,0.213,157053,0.072,0.866,D,0.133,-17.956,Minor,0.0345,80.832,4-Apr,0.0471
+Classical,Wolfgang Amadeus Mozart,"Grabmusik, K. 42: II. Felsen spaltet euren Rachen (Live)",5ZkZMEWg12RmenwB8o8M0N,15,0.962,0.378,404200,0.194,0.00232,D,0.1,-19.632,Major,0.0447,121.998,4-Apr,0.371
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: III, Pt. 2, Tuba mirum",38iohwS4KFsHjpOSnlVxkP,18,0.983,0.217,249680,0.161,0.0248,A#,0.265,-22.299,Major,0.0424,133.897,4-Apr,0.0674
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: VI. Benedictus",4idVe7ZzkKuwLdYvwzoCWg,16,0.986,0.101,370800,0.239,0.0671,A#,0.374,-17.543,Major,0.0403,78.998,4-Apr,0.0748
+Classical,Wolfgang Amadeus Mozart,"Grabmusik, K. 42: I. Wo bin ich? (Live)",5xIcEH86WMrKk1BU3BW1qW,15,0.961,0.402,75307,0.0773,0,G,0.43,-24.035,Major,0.0673,128.796,4-Apr,0.277
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act II: Welcher Kummer herrscht... Traurigkeit ward mir zum Lose",4RQGFrcIPdV7xrTDIufDDb,17,0.974,0.216,490267,0.0764,0.000177,D#,0.673,-25.699,Major,0.071,85.075,4-Apr,0.0385
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act I: Overture",2PtYX78R5En7lGJyFVuAC3,22,0.933,0.415,255227,0.137,0.00184,C,0.509,-17.273,Major,0.0486,76.363,4-Apr,0.168
+Classical,Wolfgang Amadeus Mozart,"Concerto No. 4 in E-Flat Major, K.495: II. Romance. Andante Cantabile",6LuZ8Ed5TLKpAgNBBc19nh,22,0.992,0.0977,240136,0.0167,0.952,A#,0.107,-25.504,Major,0.0454,74.503,3-Apr,0.153
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 27 in B-Flat Major, K. 595: III. Allegro",6ZIy7dBjHzPjfWh14Xx8s9,21,0.984,0.423,471120,0.133,0.877,A#,0.146,-18.534,Major,0.0381,112.673,4-Apr,0.454
+Classical,Wolfgang Amadeus Mozart,"Divertimento No. 10 in F Major, K. 247: II. Andante grazioso",32bZwIZbRYe4ImC7PJ8s2A,11,0.882,0.158,221907,0.0893,0.132,C,0.323,-21.894,Major,0.0639,74.959,4-Apr,0.0732
+Classical,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine kleine Nachtmusik"": I. Allegro",6yEDcpRwboHYgIVMrB40cH,12,0.928,0.36,338560,0.0529,0.0833,G,0.242,-25.881,Major,0.0446,146.383,4-Apr,0.434
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act II: Ach Belmonte! Ach, mein Leben!",1uBrUojoExMyzThso4y16z,14,0.985,0.32,655067,0.167,2.46E-06,D,0.341,-19.552,Major,0.153,71.991,4-Apr,0.214
+Classical,Wolfgang Amadeus Mozart,"Grabmusik, K. 42: VI. Jesu, was hab ich getan? (Live)",57TBZEaSRHodk0OKDmIcsC,13,0.956,0.291,330067,0.109,1.01E-05,D#,0.172,-22.543,Major,0.0443,77.45,3-Apr,0.127
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: III, Pt. 6, Lacrymosa",036plv70dn9SgPDK3wc2RC,18,0.985,0.132,235520,0.177,0.894,D,0.199,-15.562,Minor,0.0389,99.048,3-Apr,0.0381
+Classical,Wolfgang Amadeus Mozart,"Concerto No. 3 in E-Flat Major, K.447: III. Allegro",6KVRvE5kJzXGIWPnIDMyhf,21,0.988,0.401,218014,0.22,0.898,D#,0.0904,-22.605,Major,0.048,94.478,3-Apr,0.478
+Classical,Wolfgang Amadeus Mozart,"Symphony No. 25 in G Minor, K. 183: IV. Allegro",110izDr20i0gcqF7Zjc7HN,10,0.959,0.407,344173,0.234,0.161,A#,0.821,-21.51,Major,0.0531,107.395,4-Apr,0.46
+Classical,Wolfgang Amadeus Mozart,"Cassation in B-Flat Major, K. 99: I. Marcia",4AZasoGBUnYSzJgLnPlYce,11,0.949,0.431,113760,0.0417,0.285,F,0.161,-23.693,Major,0.048,122.636,4-Apr,0.43
+Classical,Wolfgang Amadeus Mozart,"Symphony No. 25 in G Minor, K. 183: II. Andante",4T180qYqtrQMsrwvdtFu8P,10,0.987,0.138,285107,0.00975,0.103,A#,0.0963,-33.875,Major,0.0436,85.112,4-Apr,0.0385
+Classical,Wolfgang Amadeus Mozart,"Così fan tutte, K. 588: Sorella, cosa dici? - Prenderò quel brunettino",73ZjIHPQQPS95i2tDcDiaS,23,0.975,0.418,273067,0.112,0,A#,0.355,-21.113,Major,0.247,79.61,4-Apr,0.296
+Classical,Wolfgang Amadeus Mozart,"Grabmusik, K. 42: III. Geliebte Seel' (Live)",595rwbO9oy1LU3KLCoPcub,14,0.942,0.35,79333,0.0761,0,G,0.156,-22.003,Minor,0.117,79.792,1-Apr,0.0659
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act III: Im Mohrenland gefangen war",6Zl9SYXK5z4q4mT9hniHkI,13,0.957,0.461,144640,0.0609,0,G,0.114,-29.027,Major,0.0798,94.687,4-Apr,0.458
+Classical,Wolfgang Amadeus Mozart,"Grabmusik, K. 42: VIII. Jesu, wahrer Gottessohn (Live)",7Luuy0HM8ph0HsDSBXpMj9,14,0.926,0.263,358400,0.265,3.56E-05,C,0.131,-21.024,Major,0.0355,101.552,3-Apr,0.297
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: VIII. Communio. Lux aeterna",7oiz5ZYmyv5gMKYlgfdctA,15,0.987,0.0783,435080,0.333,0.834,D,0.681,-14.805,Minor,0.0383,67.72,3-Apr,0.068
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act I: Wer ein Liebchen hat gefunden",4sCnKZRDaOqGJdv4lwCuzB,20,0.953,0.414,352467,0.26,0,G,0.865,-22.16,Minor,0.469,85.062,4-Apr,0.564
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act II: Martern von aller Arten",5LqTtDgGut5Qc6vWdpigaW,17,0.962,0.414,533773,0.13,2.18E-05,C,0.677,-20.308,Major,0.101,126.932,4-Apr,0.104
+Classical,Wolfgang Amadeus Mozart,"Cassation in B-Flat Major, K. 99: VI. Menuetto",02bDsmqHrvFzj0fZA6Srpk,10,0.925,0.401,104907,0.101,0.0241,A#,0.13,-21.945,Major,0.0478,186.642,3-Apr,0.431
+Classical,Wolfgang Amadeus Mozart,"Ch'io mi scordi di te... Non temer, amato bene, K. 505",0b4Hs0vqaDbi2cGHVbX64Z,9,0.982,0.277,694933,0.148,0.0059,D#,0.252,-22.193,Major,0.0786,91.708,4-Apr,0.127
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 8 in C Major, K. 246 ""Lützow"": I. Allegro aperto",3KWbrQTXOGEGbEPF8uMbdc,10,0.985,0.404,456040,0.101,0.836,C,0.219,-22.392,Major,0.0386,131.139,4-Apr,0.431
+Classical,Wolfgang Amadeus Mozart,"Cassation in B-Flat Major, K. 99: IV. Menuetto",3Ynxmjs9GG2nZdMbRhPfJG,10,0.962,0.619,105000,0.0588,0.0261,A#,0.115,-21.893,Major,0.0598,118.612,4-Apr,0.671
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act II: Durch Zärtlichkeit und Schmeicheln",5EI6CaVf8bVVY8Hdp9T6bp,17,0.966,0.378,162173,0.0385,0,A,0.406,-27.698,Major,0.0564,121.058,4-Apr,0.324
+Classical,Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine kleine Nachtmusik"": II. Romanze",4AI9l6IivaVWOwdCEGiMLm,12,0.846,0.241,370267,0.00983,0.0233,C,0.104,-31.546,Major,0.0485,141.99,4-Apr,0.12
+Classical,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: IIIf. Sequence No. 6, Lacrimosa dies illa (Live)",1qLwzPtPriLPHoaoBZEvvX,12,0.993,0.288,135133,0.144,0.795,D,0.164,-20.483,Minor,0.0388,55.322,4-Apr,0.0682
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 11 in F Major, K. 413: I. Allegro",36sr6ysHGl9UVDZikZp78Y,12,0.988,0.409,596507,0.0582,0.704,F,0.153,-25.405,Major,0.0384,133.628,3-Apr,0.302
+Classical,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: IVa. Offertory No. 1, Domine Jesu Christe (Live)",48zcuBCbxBmEop8Rds8Xdp,12,0.994,0.227,261733,0.239,0.687,C,0.269,-20.408,Minor,0.0357,76.169,4-Apr,0.143
+Classical,Wolfgang Amadeus Mozart,"Divertimento No. 10 in F Major, K. 247: III. Menuetto - Trio",4xLRNLT9MkHFNpbxuvHmMC,11,0.961,0.41,265093,0.0207,0.0137,F,0.121,-21.175,Major,0.0434,125.276,3-Apr,0.276
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act II: Ah, Sesto, dunque è vero",1R2XijC7LBOOuFovR3hW9A,0,0.905,0.44,193387,0.131,0,G,0.355,-28.862,Minor,0.341,134.283,3-Apr,0.0888
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act I: Herr, ich bin zwar Verbrecherin (Live)",2jzvn07iNcelKVDdOq6buW,0,0.865,0.252,423600,0.212,4.24E-06,F,0.523,-18.702,Major,0.103,74.093,4-Apr,0.213
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act I: Che mi rechi in quel foglio?",3ze4hugAmG3gm7xieEdy90,0,0.936,0.469,44587,0.17,0,G,0.767,-28.228,Major,0.427,86.101,5-Apr,0.383
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 27 in B-Flat Major, K. 595: III. Allegro (Live)",4O4m2VXSTriPS6NA9iRcwD,0,0.984,0.274,511933,0.115,0.799,A#,0.295,-22.436,Major,0.0412,84.063,3-Apr,0.281
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act I: Vengo, aspettate...",4XsCijGFZTVK645B5dLppr,0,0.982,0.32,146187,0.178,9.34E-05,G,0.709,-21.253,Major,0.117,87.3,4-Apr,0.103
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act II: Wie? Wie? Wie? (Live)",5bR1aKA7md9aVfXRN7jWoo,0,0.915,0.523,171133,0.155,0,G,0.251,-22.705,Major,0.082,116.895,4-Apr,0.451
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act I: Ist's denn auch Wirklichkeit, was ich sah? (Live)",5o1eEJTlueWg8Jde38W818,0,0.922,0.431,389067,0.127,0,A#,0.552,-23.568,Major,0.0624,95.709,4-Apr,0.327
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act I: Amico, il passo affretta",64fvB1VNqA5pQnsIo5nwag,0,0.979,0.508,80813,0.0834,0,G,0.348,-25.305,Minor,0.151,112.933,5-Apr,0.0658
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act I: Bei Männern, welche Liebe fühlen (Live)",6Kfx76vGLcjeM1ViE8Q6Nm,0,0.935,0.273,225267,0.108,0,D#,0.488,-24.111,Major,0.18,91.121,3-Apr,0.247
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act II: S'altro che lacrime",74alBkL6JaxDicd8W9ZpHl,0,0.954,0.262,176333,0.12,0.196,D,0.66,-23.775,Major,0.0552,63.902,4-Apr,0.0529
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act II: Frisch zum Kampfe!",5RDCsdDC9Q3vsWWq3ck7Ys,14,0.949,0.43,201227,0.207,1.05E-05,D,0.781,-20.562,Major,0.578,139.951,4-Apr,0.421
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620: Bei Männern, welche Liebe fühlen",4afvvLqM0yevruHb68BFQ3,23,0.957,0.314,224400,0.129,0,G#,0.359,-20.24,Major,0.0917,100.249,3-Apr,0.149
+Classical,Wolfgang Amadeus Mozart,"Church Sonata in E-Flat Major, K. 67 ""Epistle Sonata"" (Live)",12P3xTc2qcY5346l7Dw72N,17,0.763,0.219,162560,0.0614,0.856,D#,0.252,-27.594,Major,0.0367,99.536,3-Apr,0.0755
+Classical,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: I. Introit. Requiem aeternam (Live)",3SO2mIJtVyHB2SkLEZFCSw,15,0.992,0.148,257933,0.231,0.807,G,0.347,-18.568,Minor,0.0363,93.747,4-Apr,0.0506
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act II: Wenn der Freude Tränen fliessen",5g0TigzfdV3f4eceJmPEdw,14,0.991,0.363,289293,0.077,0,A#,0.536,-22.314,Major,0.053,129.474,3-Apr,0.119
+Classical,Wolfgang Amadeus Mozart,"Symphony No. 25 in G Minor, K. 183: III. Menuetto - Trio",0FBbljixa0xwP3ChavmTqj,10,0.988,0.562,199493,0.0183,0.0129,G,0.16,-19.904,Minor,0.0469,73.074,3-Apr,0.401
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 13 in C Major, K. 415: II. Andante",1gW2REDVZm1xcwSxZr66l3,10,0.971,0.282,453067,0.0423,0.866,F,0.066,-29.847,Major,0.0379,102.458,4-Apr,0.142
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 8 in C Major, K. 246 ""Lützow"": II. Andante",5VRyFYf4qi09gjqrvQsAKe,10,0.985,0.246,466160,0.0367,0.738,F,0.129,-28.421,Major,0.0439,176.13,4-Apr,0.172
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 13 in C Major, K. 415: III. Allegro",6YVCE6yiEcF7CphzVN86pL,9,0.954,0.379,556333,0.152,0.711,C,0.717,-25.128,Major,0.0463,140.166,3-Apr,0.257
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act I: March & Chorus of the Janissaries. Singt dem grossen Bassa Lieder",5EjLBEWXBJLKiXheKx0EpY,18,0.968,0.478,99400,0.387,0,C,0.821,-17.254,Major,0.0511,140.201,4-Apr,0.463
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act I: Konstanze, dich wiederzusehen",7bAo4LoXwHtgkuTfKD9TS5,19,0.986,0.318,335093,0.0596,0,A,0.59,-25.433,Major,0.056,96.915,4-Apr,0.162
+Classical,Wolfgang Amadeus Mozart,"Cassation in G Major, K. 63: II. Allegro",0Xa2P445wBT3bXAE45CEd9,13,0.867,0.48,164107,0.155,0.65,D,0.179,-19.589,Major,0.0349,135.45,4-Apr,0.56
+Classical,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: IIId. Sequence No. 4, Recordare, Jesu pie (Live)",1Fe6hlOZhHJ0Ej4QNt1w5Y,13,0.991,0.163,331400,0.193,0.00568,F,0.201,-20.829,Major,0.0457,74.375,4-Apr,0.0792
+Classical,Wolfgang Amadeus Mozart,"3 German Dances, K. 605: No. 3, German Dance in C Major ""Die Schlittenfahrt""",0JJ3gsZBix6R45X86bQ7Lg,0,0.674,0.427,194627,0.102,0.27,C,0.1,-16.072,Major,0.0317,137.661,3-Apr,0.568
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act II: Marsch der Priester (Live)",0VhPm1fqD9B8wYZpqJzjsc,0,0.97,0.123,168067,0.026,0.585,F,0.138,-29.581,Major,0.0388,85.055,4-Apr,0.199
+Classical,Wolfgang Amadeus Mozart,"Symphony No. 25 in G Minor, K. 183: I. Allegro con brio (Live)",0qQCPtzVtUUMviMseaayw7,0,0.957,0.365,517800,0.171,0.649,G,0.437,-16.714,Minor,0.0389,72.723,4-Apr,0.17
+Classical,Wolfgang Amadeus Mozart,Sonate Opus KV 331 - Tema Violin Version,3Q11WCd0JcwhPbmLJxq9nr,0,0.991,0.115,77333,0.127,0.905,A,0.162,-12.783,Major,0.0412,82.645,3-Apr,0.406
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act II: Der, welcher wandert diese Straße voll Beschwerden (Live)",4fv6S1OWzgoG6OWjs6ny2L,0,0.938,0.358,305307,0.0471,0.000152,F,0.648,-24.702,Minor,0.037,121.406,4-Apr,0.255
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act I: Die Weisheitslehre dieser Knaben (Live)",4t19la531qELAivnonfunx,0,0.903,0.293,638840,0.0967,0,C,0.646,-21.579,Major,0.0877,177.655,4-Apr,0.179
+Classical,Wolfgang Amadeus Mozart,"String Quartet No. 23 in F Major, K. 590: III. Menuetto - Allegretto",5o8aBBK6CTNpoXhe77Lrb8,0,0.92,0.396,234787,0.0651,0.631,F,0.397,-19.001,Major,0.0467,150.417,3-Apr,0.404
+Classical,Wolfgang Amadeus Mozart,Fugue in E-flat Major KV 153375f - Violin Version,65eKuudAMAz3ofpE5U3HwN,1,0.992,0.161,182666,0.244,0.916,D#,0.11,-11.886,Major,0.043,179.839,4-Apr,0.556
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act I: Adesso, oh Sesto, parla per me",6QOkIwTCOPAVHpPIAkZIfL,0,0.938,0.446,140827,0.131,0,G,0.478,-27.06,Minor,0.139,123.672,3-Apr,0.223
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act II: Der Hölle Rache kocht in meinem Herzen (Live)",6cCpghnFlnY93nEc8z7SiI,0,0.88,0.391,180440,0.198,2.39E-05,F,0.678,-18.481,Major,0.133,78.525,4-Apr,0.243
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act I: Del più sublime soglio",6vZJ09k91DfoFIb93Mz9Pg,0,0.976,0.321,176987,0.149,0.0288,G,0.724,-23.635,Major,0.0472,99.301,4-Apr,0.178
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 24 in C Minor, K. 491: I. Allegro (Live)",6xPJLPVOJxNE8gYFs0CLca,0,0.96,0.261,741027,0.105,0.872,C,0.169,-21.878,Minor,0.0364,142.786,3-Apr,0.151
+Classical,Wolfgang Amadeus Mozart,"Requiem, K. 626: I. Introitus. Requiem aeternam",066hlspYzf8X1YvPjDWS9o,22,0.988,0.0629,389800,0.246,0.884,A#,0.166,-16.092,Major,0.0433,70.275,4-Apr,0.0353
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act I: Hier soll ich dich denn sehen",3sPdY2XmoaWBIi7yMHtk6U,21,0.975,0.297,157267,0.0471,0,C,0.636,-24.989,Major,0.0526,83.325,4-Apr,0.27
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act III: Welch ein Geschick! Meinetwegen sollst du sterben!",1M8GOSEhGV3DOBS42pTmUE,12,0.971,0.354,438360,0.069,0,A#,0.678,-23.652,Major,0.0803,79.157,4-Apr,0.122
+Classical,Wolfgang Amadeus Mozart,"Cassation in G Major, K. 63: I. Marche",29bBbQJPXjoQRAIwVkGrYy,14,0.81,0.363,148027,0.215,0.498,D,0.183,-20.489,Major,0.0528,92.967,4-Apr,0.182
+Classical,Wolfgang Amadeus Mozart,"Cassation in G Major, K. 63: III. Andante",3tXesESEMw2eJZVqLgq2Wf,13,0.868,0.233,218693,0.0112,0.113,C,0.0859,-34.415,Major,0.0446,111.388,4-Apr,0.199
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 11 in F Major, K. 413: II. Larghetto",5i02RO2Ha58ry5SYXqnLlO,12,0.986,0.214,499893,0.0191,0.711,A#,0.174,-30.879,Major,0.0412,173.681,4-Apr,0.0942
+Classical,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: IVb. Offertory No. 2, Hostias et preces (Live)",7LzN8FihYXSQXWIbF7pZUP,12,0.995,0.246,224960,0.19,0.903,G,0.167,-20.788,Minor,0.0338,66.474,4-Apr,0.076
+Classical,Wolfgang Amadeus Mozart,Sonata in C major (fragment) - Violin Version,5X2Jrt3JNIaAF2gfijzoPZ,13,0.987,0.268,56000,0.221,0.855,C,0.0799,-11.074,Major,0.0612,179.731,4-Apr,0.44
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act III: Ich baue ganz auf deine Stärke",6tPk2dd5yFKCaFu3WvWduu,13,0.993,0.285,297267,0.089,1.86E-06,D#,0.144,-24.636,Major,0.0616,75.668,3-Apr,0.17
+Classical,Wolfgang Amadeus Mozart,"Die Entführung aus dem Serail, K. 384, Act I: Solche hergelaufne Laffen",7ndQHzaUtvzbvbhAmEUeDq,19,0.951,0.43,282493,0.21,0,F,0.694,-23.328,Major,0.511,93.435,4-Apr,0.455
+Classical,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: VII. Agnus Dei (Live)",7eqIlvZlMTQgoDJdpyOZOp,12,0.992,0.137,458773,0.24,0.655,F,0.185,-19.614,Major,0.0405,82.961,4-Apr,0.0898
+Classical,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: IIIe. Sequence No. 5, Confutatis maledictis (Live)",7gRc34ApzVfvDgjQgRWEeD,12,0.995,0.156,135467,0.105,0.972,F,0.196,-21.497,Major,0.043,75.604,4-Apr,0.0356
+Classical,Wolfgang Amadeus Mozart,"Requiem in D Minor, K. 626: V. Sanctus (Live)",7zK11F08Ksu1bkZxuo8V1R,12,0.989,0.29,90467,0.259,0.851,D,0.48,-17.471,Major,0.0323,60.023,4-Apr,0.442
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act II: Deh per questo istante solo",0fJxVhvlaIEchtN8fPFpoR,0,0.983,0.207,420973,0.112,5.90E-05,A,0.702,-24.744,Major,0.0809,79.836,4-Apr,0.0698
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act I: Vedrai, Tito, vedrai",1Ck2ZCX2Am5elultMgYx5u,0,0.982,0.474,46533,0.187,6.63E-05,D,0.415,-25.721,Major,0.324,98.806,4-Apr,0.145
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act I: Marcia",1p7HnO1lFJjUR7WoWAzhEE,0,0.957,0.535,64853,0.23,0.925,D#,0.3,-16.614,Major,0.0518,113.364,4-Apr,0.432
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act II: Ecco il punto",2WWqgMjPdFVeYGOnHY8Unu,0,0.985,0.364,151547,0.0293,0,G,0.0927,-27.581,Minor,0.0543,79.904,4-Apr,0.0399
+Classical,Wolfgang Amadeus Mozart,"Piano Concerto No. 14 in E-Flat Major, K. 449: I. Allegro vivace (Live)",3zSQhe1OlxlhccRfhuNTim,0,0.989,0.332,535467,0.101,0.921,D#,0.1,-21.575,Major,0.0358,135.756,3-Apr,0.221
+Classical,Wolfgang Amadeus Mozart,"Im Frühlingsanfang, K. 597",41CwZNCx22YtAaGWza9Y7j,0,0.995,0.441,170147,0.0301,0.000679,D#,0.115,-26.7,Major,0.0781,77.317,4-Apr,0.34
+Classical,Wolfgang Amadeus Mozart,?????? - ??????????,4aY1bFAo9Le5Mz1Fi7MlNl,0,0.98,0.298,81333,0.262,0.828,G,0.271,-10.627,Major,0.0445,90.593,3-Apr,0.271
+Classical,Wolfgang Amadeus Mozart,Fugue fragment Anh. 41 (375g) - Violin Version,5JMPJlD20qGczQW9VTqW7d,0,0.993,0.294,76000,0.207,0.934,D,0.115,-10.036,Major,0.043,90.071,4-Apr,0.58
+Classical,Wolfgang Amadeus Mozart,"Die Zauberflöte, K. 620, Act I: Es lebe Sarastro, Sarastro lebe! (Live)",64FQ3US1wqTpVMT2ysiNlH,0,0.904,0.537,114267,0.175,0,C,0.229,-17.431,Major,0.0872,100.532,4-Apr,0.161
+Classical,Wolfgang Amadeus Mozart,"Clarinet Quintet in A Major, K. 581: I. Allegro",6Bz5mKFw6gbIJaz9WLWdGE,0,0.984,0.301,415013,0.0891,0.568,A,0.0885,-18.616,Major,0.0444,120.493,4-Apr,0.22
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act I: Basta, basta, oh miei fidi - Marcia",6Ul3DxkscK9wDM0KbnFPuh,0,0.924,0.575,75120,0.24,0.432,D#,0.119,-17.976,Major,0.0543,117.421,4-Apr,0.499
+Classical,Wolfgang Amadeus Mozart,"La clemenza di Tito, K. 621, Act II: Che del ciel, che degli Dei",7EHmWcfVC8XTe7GumVEVhB,0,0.978,0.205,100200,0.297,0.947,G,0.389,-18.297,Major,0.0349,97.754,4-Apr,0.167
